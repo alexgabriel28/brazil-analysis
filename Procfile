@@ -1,1 +1,1 @@
-web: gunicorn brazil_analysis:server
+web: gunicorn brazil_analysis:server --timeout 120
