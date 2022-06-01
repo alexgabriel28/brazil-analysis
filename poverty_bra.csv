@@ -1,0 +1,1323 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Brazil,BRA,2014,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,3.66325640678406
+Brazil,BRA,2012,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,4.59167098999023
+Brazil,BRA,2011,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,5.50047826766968
+Brazil,BRA,2009,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,6.17514657974243
+Brazil,BRA,2008,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,6.28679847717285
+Brazil,BRA,2007,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,7.60265779495239
+Brazil,BRA,2006,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,7.94484853744507
+Brazil,BRA,2005,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,9.55349540710449
+Brazil,BRA,2004,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,11.0362329483032
+Brazil,BRA,2003,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,12.709324836731
+Brazil,BRA,2002,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,12.3108644485474
+Brazil,BRA,2001,Poverty Headcount ($1.90 a day),1.0.HCount.1.90usd,13.6220474243164
+Brazil,BRA,2014,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,7.81623363494873
+Brazil,BRA,2012,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,9.61252117156982
+Brazil,BRA,2011,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,11.7248420715332
+Brazil,BRA,2009,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,13.8868274688721
+Brazil,BRA,2008,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,14.7366437911987
+Brazil,BRA,2007,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,17.2200183868408
+Brazil,BRA,2006,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,18.3536243438721
+Brazil,BRA,2005,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,21.8958721160889
+Brazil,BRA,2004,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,23.951452255249
+Brazil,BRA,2003,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,25.8365726470947
+Brazil,BRA,2002,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,25.1449661254883
+Brazil,BRA,2001,Poverty Headcount ($2.50 a day),1.0.HCount.2.5usd,26.3759632110596
+Brazil,BRA,2014,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,42.5240859985352
+Brazil,BRA,2012,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,39.4587669372559
+Brazil,BRA,2011,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,34.8239212036133
+Brazil,BRA,2009,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,31.5789108276367
+Brazil,BRA,2008,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,29.920036315918
+Brazil,BRA,2007,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,27.9716949462891
+Brazil,BRA,2006,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,26.0715179443359
+Brazil,BRA,2005,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,23.8944625854492
+Brazil,BRA,2004,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,22.5092544555664
+Brazil,BRA,2003,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,21.947135925293
+Brazil,BRA,2002,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,22.4417572021484
+Brazil,BRA,2001,Middle Class ($10-50 a day) Headcount,1.0.HCount.Mid10to50,22.1476974487305
+Brazil,BRA,2014,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,7.4
+Brazil,BRA,2013,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,8.88479374
+Brazil,BRA,2012,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,8.9639166
+Brazil,BRA,2011,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,11.117933
+Brazil,BRA,2009,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,13.289279
+Brazil,BRA,2008,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,14.084228
+Brazil,BRA,2007,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,16.112436
+Brazil,BRA,2006,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,17.290218
+Brazil,BRA,2005,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,20.968174
+Brazil,BRA,2004,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,22.419686
+Brazil,BRA,2003,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,24.927155
+Brazil,BRA,2002,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,23.3
+Brazil,BRA,2001,Official Moderate Poverty Rate-National,1.0.HCount.Ofcl,24.7
+Brazil,BRA,2014,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,18.1118392944336
+Brazil,BRA,2012,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,20.8175640106201
+Brazil,BRA,2011,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,23.8348999023438
+Brazil,BRA,2009,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,26.8724918365479
+Brazil,BRA,2008,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,28.6359272003174
+Brazil,BRA,2007,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,31.6345920562744
+Brazil,BRA,2006,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,34.0415267944336
+Brazil,BRA,2005,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,38.0290603637695
+Brazil,BRA,2004,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,40.6284141540527
+Brazil,BRA,2003,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,42.5660209655762
+Brazil,BRA,2002,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,41.7347526550293
+Brazil,BRA,2001,Poverty Headcount ($4 a day),1.0.HCount.Poor4uds,42.6504859924316
+Brazil,BRA,2014,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,35.2287750244141
+Brazil,BRA,2012,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,36.1388778686523
+Brazil,BRA,2011,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,37.9922561645508
+Brazil,BRA,2009,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,38.4933319091797
+Brazil,BRA,2008,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,38.5554428100586
+Brazil,BRA,2007,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,37.6591415405273
+Brazil,BRA,2006,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,37.1324005126953
+Brazil,BRA,2005,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,35.6812973022461
+Brazil,BRA,2004,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,34.7383003234863
+Brazil,BRA,2003,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,33.2318382263184
+Brazil,BRA,2002,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,33.2892951965332
+Brazil,BRA,2001,Vulnerable ($4-10 a day) Headcount,1.0.HCount.Vul4to10,32.8027076721191
+Brazil,BRA,2014,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,1.71894180774689
+Brazil,BRA,2012,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,2.47633194923401
+Brazil,BRA,2011,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,2.92670512199402
+Brazil,BRA,2009,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,2.90285611152649
+Brazil,BRA,2008,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,2.92493319511414
+Brazil,BRA,2007,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,3.5898585319519
+Brazil,BRA,2006,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,3.32253789901733
+Brazil,BRA,2005,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,3.88032245635986
+Brazil,BRA,2004,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,4.47508764266968
+Brazil,BRA,2003,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,5.32555437088013
+Brazil,BRA,2002,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,4.82954692840576
+Brazil,BRA,2001,Poverty Gap ($1.90 a day),1.0.PGap.1.90usd,5.79105615615845
+Brazil,BRA,2014,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,3.24714231491089
+Brazil,BRA,2012,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,4.2598295211792
+Brazil,BRA,2011,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,5.09153509140015
+Brazil,BRA,2009,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,5.64802694320679
+Brazil,BRA,2008,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,5.89849948883057
+Brazil,BRA,2007,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,7.07108926773071
+Brazil,BRA,2006,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,7.22278451919556
+Brazil,BRA,2005,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,8.59028244018555
+Brazil,BRA,2004,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,9.67509651184082
+Brazil,BRA,2003,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,10.9758377075195
+Brazil,BRA,2002,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,10.3841562271118
+Brazil,BRA,2001,Poverty Gap ($2.50 a day),1.0.PGap.2.5usd,11.5557279586792
+Brazil,BRA,2014,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,6.84527492523193
+Brazil,BRA,2012,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,8.37337303161621
+Brazil,BRA,2011,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,9.87421703338623
+Brazil,BRA,2009,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,11.2609281539917
+Brazil,BRA,2008,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,11.8682889938354
+Brazil,BRA,2007,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,13.7223501205444
+Brazil,BRA,2006,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,14.4275274276733
+Brazil,BRA,2005,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,16.7187919616699
+Brazil,BRA,2004,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,18.2730503082275
+Brazil,BRA,2003,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,19.8009490966797
+Brazil,BRA,2002,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,19.1359100341797
+Brazil,BRA,2001,Poverty Gap ($4 a day),1.0.PGap.Poor4uds,20.3270359039307
+Brazil,BRA,2014,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,1.17114531993866
+Brazil,BRA,2012,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,1.86592102050781
+Brazil,BRA,2011,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.14234066009521
+Brazil,BRA,2009,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.01095533370972
+Brazil,BRA,2008,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.02428674697876
+Brazil,BRA,2007,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.51376843452454
+Brazil,BRA,2006,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.08692598342896
+Brazil,BRA,2005,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.40041089057922
+Brazil,BRA,2004,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,2.80176401138306
+Brazil,BRA,2003,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,3.38822317123413
+Brazil,BRA,2002,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,3.01511669158936
+Brazil,BRA,2001,Poverty Severity ($1.90 a day),1.0.PSev.1.90usd,3.75911545753479
+Brazil,BRA,2014,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,2.02255582809448
+Brazil,BRA,2012,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,2.83618807792664
+Brazil,BRA,2011,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,3.34490942955017
+Brazil,BRA,2009,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,3.47254967689514
+Brazil,BRA,2008,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,3.56454849243164
+Brazil,BRA,2007,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,4.34056615829468
+Brazil,BRA,2006,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,4.15865325927734
+Brazil,BRA,2005,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,4.91096925735474
+Brazil,BRA,2004,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,5.61694622039795
+Brazil,BRA,2003,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,6.54167556762695
+Brazil,BRA,2002,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,6.04941511154175
+Brazil,BRA,2001,Poverty Severity ($2.50 a day),1.0.PSev.2.5usd,7.02677392959595
+Brazil,BRA,2014,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,3.87499356269836
+Brazil,BRA,2012,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,4.97996854782104
+Brazil,BRA,2011,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,5.91475343704224
+Brazil,BRA,2009,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,6.5976390838623
+Brazil,BRA,2008,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,6.90660333633423
+Brazil,BRA,2007,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,8.16029930114746
+Brazil,BRA,2006,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,8.36760520935059
+Brazil,BRA,2005,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,9.80887985229492
+Brazil,BRA,2004,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,10.914119720459
+Brazil,BRA,2003,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,12.1583051681519
+Brazil,BRA,2002,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,11.5817909240723
+Brazil,BRA,2001,Poverty Severity ($4 a day),1.0.PSev.Poor4uds,12.6909198760986
+Brazil,BRA,2014,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,8.75602722167969
+Brazil,BRA,2012,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,10.5662078857422
+Brazil,BRA,2011,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,13.0404253005981
+Brazil,BRA,2009,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,13.110499382019
+Brazil,BRA,2008,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,13.6826152801514
+Brazil,BRA,2007,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,15.8268632888794
+Brazil,BRA,2006,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,17.8201026916504
+Brazil,BRA,2005,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,19.9451847076416
+Brazil,BRA,2004,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,21.6801910400391
+Brazil,BRA,2003,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,25.392204284668
+Brazil,BRA,2002,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,24.4862060546875
+Brazil,BRA,2001,Poverty Headcount ($1.90 a day)-Rural,1.1.HCount.1.90usd,28.0317459106445
+Brazil,BRA,2014,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,18.0040416717529
+Brazil,BRA,2012,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,21.7283191680908
+Brazil,BRA,2011,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,25.0988502502441
+Brazil,BRA,2009,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,26.6341037750244
+Brazil,BRA,2008,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,29.6837463378906
+Brazil,BRA,2007,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,32.9771156311035
+Brazil,BRA,2006,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,35.0177040100098
+Brazil,BRA,2005,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,39.3142547607422
+Brazil,BRA,2004,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,41.5698432922363
+Brazil,BRA,2003,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,45.4435386657715
+Brazil,BRA,2002,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,46.1046409606934
+Brazil,BRA,2001,Poverty Headcount ($2.50 a day)-Rural,1.1.HCount.2.5usd,48.2694702148438
+Brazil,BRA,2014,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,28.3683395385742
+Brazil,BRA,2012,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,24.0541763305664
+Brazil,BRA,2011,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,20.6879806518555
+Brazil,BRA,2009,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,18.6602478027344
+Brazil,BRA,2008,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,14.703483581543
+Brazil,BRA,2007,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,13.18505859375
+Brazil,BRA,2006,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,11.3970947265625
+Brazil,BRA,2005,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,9.5457763671875
+Brazil,BRA,2004,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,9.19342041015625
+Brazil,BRA,2003,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,8.7928466796875
+Brazil,BRA,2002,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,7.72315216064453
+Brazil,BRA,2001,Middle Class ($10-50 a day) Headcount-Rural,1.1.HCount.Mid10to50,7.28140258789063
+Brazil,BRA,2014,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,34.4398727416992
+Brazil,BRA,2012,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,39.2881050109863
+Brazil,BRA,2011,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,43.4566307067871
+Brazil,BRA,2009,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,45.6616134643555
+Brazil,BRA,2008,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,48.4604682922363
+Brazil,BRA,2007,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,52.3220481872559
+Brazil,BRA,2006,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,54.6254272460938
+Brazil,BRA,2005,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,60.3282928466797
+Brazil,BRA,2004,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,61.8683967590332
+Brazil,BRA,2003,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,64.6178283691406
+Brazil,BRA,2002,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,66.1391525268555
+Brazil,BRA,2001,Poverty Headcount ($4 a day)-Rural,1.1.HCount.Poor4uds,66.6034088134766
+Brazil,BRA,2014,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,36.3124618530273
+Brazil,BRA,2012,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,35.9229698181152
+Brazil,BRA,2011,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,35.169620513916
+Brazil,BRA,2009,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,35.0936050415039
+Brazil,BRA,2008,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,36.2661476135254
+Brazil,BRA,2007,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,33.9902229309082
+Brazil,BRA,2006,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,33.5495300292969
+Brazil,BRA,2005,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,29.7280426025391
+Brazil,BRA,2004,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,28.5374794006348
+Brazil,BRA,2003,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,26.2082977294922
+Brazil,BRA,2002,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,25.7768096923828
+Brazil,BRA,2001,Vulnerable ($4-10 a day) Headcount-Rural,1.1.HCount.Vul4to10,25.69775390625
+Brazil,BRA,2014,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,3.24709391593933
+Brazil,BRA,2012,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,4.39279699325562
+Brazil,BRA,2011,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,5.71782827377319
+Brazil,BRA,2009,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,5.59792995452881
+Brazil,BRA,2008,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,5.73682451248169
+Brazil,BRA,2007,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,6.83541011810303
+Brazil,BRA,2006,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,7.17358303070068
+Brazil,BRA,2005,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,7.60187101364136
+Brazil,BRA,2004,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,8.20188426971436
+Brazil,BRA,2003,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,10.2072973251343
+Brazil,BRA,2002,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,9.69613075256348
+Brazil,BRA,2001,Poverty Gap ($1.90 a day)-Rural,1.1.PGap.1.90usd,11.6072235107422
+Brazil,BRA,2014,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,7.20892333984375
+Brazil,BRA,2012,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,9.07536125183105
+Brazil,BRA,2011,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,11.0638437271118
+Brazil,BRA,2009,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,11.2009239196777
+Brazil,BRA,2008,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,12.0471019744873
+Brazil,BRA,2007,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,13.8539962768555
+Brazil,BRA,2006,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,15.0079803466797
+Brazil,BRA,2005,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,16.5813903808594
+Brazil,BRA,2004,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,17.7208957672119
+Brazil,BRA,2003,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,20.3839893341064
+Brazil,BRA,2002,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,20.2864665985107
+Brazil,BRA,2001,Poverty Gap ($2.50 a day)-Rural,1.1.PGap.2.5usd,22.597620010376
+Brazil,BRA,2014,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,14.3548526763916
+Brazil,BRA,2012,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,17.1400775909424
+Brazil,BRA,2011,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,19.8732433319092
+Brazil,BRA,2009,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,20.7893886566162
+Brazil,BRA,2008,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,22.4448852539063
+Brazil,BRA,2007,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,24.9412021636963
+Brazil,BRA,2006,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,26.5783824920654
+Brazil,BRA,2005,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,29.159387588501
+Brazil,BRA,2004,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,30.7312908172607
+Brazil,BRA,2003,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,33.6121253967285
+Brazil,BRA,2002,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,34.0289840698242
+Brazil,BRA,2001,Poverty Gap ($4 a day)-Rural,1.1.PGap.Poor4uds,35.9503936767578
+Brazil,BRA,2014,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,1.77370190620422
+Brazil,BRA,2012,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,2.67744660377502
+Brazil,BRA,2011,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,3.49483060836792
+Brazil,BRA,2009,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,3.41727447509766
+Brazil,BRA,2008,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,3.50767135620117
+Brazil,BRA,2007,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,4.30219841003418
+Brazil,BRA,2006,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,4.09196853637695
+Brazil,BRA,2005,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,4.24438667297363
+Brazil,BRA,2004,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,4.55038833618164
+Brazil,BRA,2003,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,5.92802810668945
+Brazil,BRA,2002,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,5.54428720474243
+Brazil,BRA,2001,Poverty Severity ($1.90 a day)-Rural,1.1.PSev.1.90usd,6.85029602050781
+Brazil,BRA,2014,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,4.06310319900513
+Brazil,BRA,2012,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,5.35556507110596
+Brazil,BRA,2011,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,6.73597240447998
+Brazil,BRA,2009,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,6.69394779205322
+Brazil,BRA,2008,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,7.04633951187134
+Brazil,BRA,2007,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,8.28789806365967
+Brazil,BRA,2006,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,8.74404621124268
+Brazil,BRA,2005,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,9.48290538787842
+Brazil,BRA,2004,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,10.1793193817139
+Brazil,BRA,2003,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,12.2131147384644
+Brazil,BRA,2002,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,11.8753805160522
+Brazil,BRA,2001,Poverty Severity ($2.50 a day)-Rural,1.1.PSev.2.5usd,13.7680950164795
+Brazil,BRA,2014,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,8.2797212600708
+Brazil,BRA,2012,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,10.2283115386963
+Brazil,BRA,2011,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,12.2478456497192
+Brazil,BRA,2009,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,12.5964031219482
+Brazil,BRA,2008,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,13.5444087982178
+Brazil,BRA,2007,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,15.3684368133545
+Brazil,BRA,2006,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,16.4514045715332
+Brazil,BRA,2005,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,18.0609073638916
+Brazil,BRA,2004,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,19.1843147277832
+Brazil,BRA,2003,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,21.6973609924316
+Brazil,BRA,2002,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,21.6737213134766
+Brazil,BRA,2001,Poverty Severity ($4 a day)-Rural,1.1.PSev.Poor4uds,23.7107448577881
+Brazil,BRA,2014,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,2.76959824562073
+Brazil,BRA,2012,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,3.51574039459229
+Brazil,BRA,2011,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,4.13745641708374
+Brazil,BRA,2009,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,4.80015087127686
+Brazil,BRA,2008,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,4.79476928710938
+Brazil,BRA,2007,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,5.91398906707764
+Brazil,BRA,2006,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,5.90592575073242
+Brazil,BRA,2005,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,7.35751914978027
+Brazil,BRA,2004,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,8.81376075744629
+Brazil,BRA,2003,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,10.3489503860474
+Brazil,BRA,2002,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,10.0306701660156
+Brazil,BRA,2001,Poverty Headcount ($1.90 a day)-Urban,1.2.HCount.1.90usd,10.9029092788696
+Brazil,BRA,2014,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,6.02852010726929
+Brazil,BRA,2012,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,7.43063497543335
+Brazil,BRA,2011,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,9.30717849731445
+Brazil,BRA,2009,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,11.359564781189
+Brazil,BRA,2008,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,11.7212200164795
+Brazil,BRA,2007,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,13.9846267700195
+Brazil,BRA,2006,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,14.9130277633667
+Brazil,BRA,2005,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,18.2150115966797
+Brazil,BRA,2004,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,20.2727088928223
+Brazil,BRA,2003,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,22.1875762939453
+Brazil,BRA,2002,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,21.2196445465088
+Brazil,BRA,2001,Poverty Headcount ($2.50 a day)-Urban,1.2.HCount.2.5usd,22.2446155548096
+Brazil,BRA,2014,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,45.0080757141113
+Brazil,BRA,2012,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,42.2329216003418
+Brazil,BRA,2011,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,37.3793334960938
+Brazil,BRA,2009,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,34.1401443481445
+Brazil,BRA,2008,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,32.9898223876953
+Brazil,BRA,2007,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,31.0078277587891
+Brazil,BRA,2006,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,29.1013107299805
+Brazil,BRA,2005,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,26.926628112793
+Brazil,BRA,2004,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,25.2896118164063
+Brazil,BRA,2003,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,24.3952484130859
+Brazil,BRA,2002,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,25.1982574462891
+Brazil,BRA,2001,Middle Class ($10-50 a day) Headcount-Urban,1.2.HCount.Mid10to50,24.9530029296875
+Brazil,BRA,2014,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,15.2466640472412
+Brazil,BRA,2012,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,17.4912776947021
+Brazil,BRA,2011,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,20.2878131866455
+Brazil,BRA,2009,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,23.1473808288574
+Brazil,BRA,2008,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,24.6365299224854
+Brazil,BRA,2007,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,27.3868560791016
+Brazil,BRA,2006,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,29.7916107177734
+Brazil,BRA,2005,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,33.3167762756348
+Brazil,BRA,2004,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,36.1934776306152
+Brazil,BRA,2003,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,38.4620170593262
+Brazil,BRA,2002,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,37.1643028259277
+Brazil,BRA,2001,Poverty Headcount ($4 a day)-Urban,1.2.HCount.Poor4uds,38.1305236816406
+Brazil,BRA,2014,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,35.0386123657227
+Brazil,BRA,2012,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,36.1777572631836
+Brazil,BRA,2011,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,38.5025100708008
+Brazil,BRA,2009,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,39.1673545837402
+Brazil,BRA,2008,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,39.0172882080078
+Brazil,BRA,2007,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,38.4124755859375
+Brazil,BRA,2006,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,37.8721542358398
+Brazil,BRA,2005,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,36.9393424987793
+Brazil,BRA,2004,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,36.0330390930176
+Brazil,BRA,2003,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,34.5389747619629
+Brazil,BRA,2002,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,34.696231842041
+Brazil,BRA,2001,Vulnerable ($4-10 a day) Headcount-Urban,1.2.HCount.Vul4to10,34.1434173583984
+Brazil,BRA,2014,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,1.45078825950623
+Brazil,BRA,2012,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,2.13120365142822
+Brazil,BRA,2011,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,2.42214417457581
+Brazil,BRA,2009,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,2.36853384971619
+Brazil,BRA,2008,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,2.35766315460205
+Brazil,BRA,2007,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,2.92345237731934
+Brazil,BRA,2006,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,2.52742075920105
+Brazil,BRA,2005,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,3.09388303756714
+Brazil,BRA,2004,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,3.69692778587341
+Brazil,BRA,2003,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,4.41702699661255
+Brazil,BRA,2002,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,3.91813492774963
+Brazil,BRA,2001,Poverty Gap ($1.90 a day)-Urban,1.2.PGap.1.90usd,4.6935338973999
+Brazil,BRA,2014,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,2.55194544792175
+Brazil,BRA,2012,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,3.39261984825134
+Brazil,BRA,2011,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,4.01190090179443
+Brazil,BRA,2009,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,4.54711580276489
+Brazil,BRA,2008,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,4.65808248519897
+Brazil,BRA,2007,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,5.67836093902588
+Brazil,BRA,2006,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,5.61539173126221
+Brazil,BRA,2005,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,6.90159797668457
+Brazil,BRA,2004,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,7.99512338638306
+Brazil,BRA,2003,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,9.22491264343262
+Brazil,BRA,2002,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,8.52965545654297
+Brazil,BRA,2001,Poverty Gap ($2.50 a day)-Urban,1.2.PGap.2.5usd,9.47210311889648
+Brazil,BRA,2014,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,5.52752590179443
+Brazil,BRA,2012,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,6.79461240768433
+Brazil,BRA,2011,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,8.06665897369385
+Brazil,BRA,2009,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,9.371826171875
+Brazil,BRA,2008,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,9.73457145690918
+Brazil,BRA,2007,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,11.4187927246094
+Brazil,BRA,2006,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,11.9187660217285
+Brazil,BRA,2005,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,14.0898389816284
+Brazil,BRA,2004,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,15.6717519760132
+Brazil,BRA,2003,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,17.2305908203125
+Brazil,BRA,2002,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,16.346736907959
+Brazil,BRA,2001,Poverty Gap ($4 a day)-Urban,1.2.PGap.Poor4uds,17.3788757324219
+Brazil,BRA,2014,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,1.06541132926941
+Brazil,BRA,2012,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,1.71977651119232
+Brazil,BRA,2011,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,1.89784646034241
+Brazil,BRA,2009,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,1.7321400642395
+Brazil,BRA,2008,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,1.72502934932709
+Brazil,BRA,2007,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,2.14655184745789
+Brazil,BRA,2006,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,1.67294919490814
+Brazil,BRA,2005,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,2.01074123382568
+Brazil,BRA,2004,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,2.43664908409119
+Brazil,BRA,2003,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,2.91554713249207
+Brazil,BRA,2002,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,2.54145431518555
+Brazil,BRA,2001,Poverty Severity ($1.90 a day)-Urban,1.2.PSev.1.90usd,3.17580366134644
+Brazil,BRA,2014,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,1.66448926925659
+Brazil,BRA,2012,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,2.38248348236084
+Brazil,BRA,2011,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,2.73189520835876
+Brazil,BRA,2009,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,2.83387875556946
+Brazil,BRA,2008,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,2.86213326454163
+Brazil,BRA,2007,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,3.53006410598755
+Brazil,BRA,2006,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,3.21191668510437
+Brazil,BRA,2005,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,3.9448254108429
+Brazil,BRA,2004,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,4.66431665420532
+Brazil,BRA,2003,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,5.48618030548096
+Brazil,BRA,2002,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,4.9583306312561
+Brazil,BRA,2001,Poverty Severity ($2.50 a day)-Urban,1.2.PSev.2.5usd,5.75467348098755
+Brazil,BRA,2014,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,3.10207033157349
+Brazil,BRA,2012,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,4.03481578826904
+Brazil,BRA,2011,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,4.76989936828613
+Brazil,BRA,2009,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,5.40832996368408
+Brazil,BRA,2008,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,5.56749439239502
+Brazil,BRA,2007,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,6.68025922775269
+Brazil,BRA,2006,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,6.69856023788452
+Brazil,BRA,2005,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,8.0650577545166
+Brazil,BRA,2004,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,9.18729209899902
+Brazil,BRA,2003,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,10.3830194473267
+Brazil,BRA,2002,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,9.69177913665771
+Brazil,BRA,2001,Poverty Severity ($4 a day)-Urban,1.2.PSev.Poor4uds,10.611457824707
+Brazil,BRA,2014,Coverage: Mobile Phone,2.0.cov.Cel,94.0879075612874
+Brazil,BRA,2012,Coverage: Mobile Phone,2.0.cov.Cel,90.9575170495943
+Brazil,BRA,2000,Coverage: Mobile Phone,2.0.cov.Cel,25.9570265246162
+Brazil,BRA,2014,Coverage: Electricity,2.0.cov.Ele,99.5493212370665
+Brazil,BRA,2012,Coverage: Electricity,2.0.cov.Ele,99.2353230123399
+Brazil,BRA,2000,Coverage: Electricity,2.0.cov.Ele,94.0025850913797
+Brazil,BRA,2014,Coverage: Internet,2.0.cov.Int,40.2202144282924
+Brazil,BRA,2012,Coverage: Internet,2.0.cov.Int,37.2796520407266
+Brazil,BRA,2000,Coverage: Internet,2.0.cov.Int,5.89831400799418
+Brazil,BRA,2012,Coverage: Mathematics Proficiency Level 2,2.0.cov.Math.pl_2.all,35.5831036671618
+Brazil,BRA,2009,Coverage: Mathematics Proficiency Level 2,2.0.cov.Math.pl_2.all,33.9544763579134
+Brazil,BRA,2006,Coverage: Mathematics Proficiency Level 2,2.0.cov.Math.pl_2.all,28.6794132114302
+Brazil,BRA,2012,"Coverage: Mathematics Proficiency Level 2, Private schools",2.0.cov.Math.pl_2.prv,72.2243316063
+Brazil,BRA,2009,"Coverage: Mathematics Proficiency Level 2, Private schools",2.0.cov.Math.pl_2.prv,82.3322560323982
+Brazil,BRA,2006,"Coverage: Mathematics Proficiency Level 2, Private schools",2.0.cov.Math.pl_2.prv,75.422346405512
+Brazil,BRA,2012,"Coverage: Mathematics Proficiency Level 2, Public schools",2.0.cov.Math.pl_2.pub,26.8159398086274
+Brazil,BRA,2009,"Coverage: Mathematics Proficiency Level 2, Public schools",2.0.cov.Math.pl_2.pub,26.1872798923852
+Brazil,BRA,2006,"Coverage: Mathematics Proficiency Level 2, Public schools",2.0.cov.Math.pl_2.pub,20.3484362118554
+Brazil,BRA,2012,Coverage: Mathematics Proficiency Level 3,2.0.cov.Math.pl_3.all,13.5026706748594
+Brazil,BRA,2009,Coverage: Mathematics Proficiency Level 3,2.0.cov.Math.pl_3.all,13.1528992653994
+Brazil,BRA,2006,Coverage: Mathematics Proficiency Level 3,2.0.cov.Math.pl_3.all,11.5205655516833
+Brazil,BRA,2012,"Coverage: Mathematics Proficiency Level 3, Private schools",2.0.cov.Math.pl_3.prv,41.4092534567481
+Brazil,BRA,2009,"Coverage: Mathematics Proficiency Level 3, Private schools",2.0.cov.Math.pl_3.prv,55.1540182632222
+Brazil,BRA,2006,"Coverage: Mathematics Proficiency Level 3, Private schools",2.0.cov.Math.pl_3.prv,47.0043124645246
+Brazil,BRA,2012,"Coverage: Mathematics Proficiency Level 3, Public schools",2.0.cov.Math.pl_3.pub,6.88190925381343
+Brazil,BRA,2009,"Coverage: Mathematics Proficiency Level 3, Public schools",2.0.cov.Math.pl_3.pub,6.47937630209053
+Brazil,BRA,2006,"Coverage: Mathematics Proficiency Level 3, Public schools",2.0.cov.Math.pl_3.pub,5.19630949490961
+Brazil,BRA,2012,Coverage: Reading Proficiency Level 2,2.0.cov.Read.pl_2.all,54.0757871118076
+Brazil,BRA,2009,Coverage: Reading Proficiency Level 2,2.0.cov.Read.pl_2.all,55.2146479475506
+Brazil,BRA,2006,Coverage: Reading Proficiency Level 2,2.0.cov.Read.pl_2.all,46.7177945199266
+Brazil,BRA,2012,"Coverage: Reading Proficiency Level 2, Private schools",2.0.cov.Read.pl_2.prv,85.0152733416531
+Brazil,BRA,2009,"Coverage: Reading Proficiency Level 2, Private schools",2.0.cov.Read.pl_2.prv,90.9322888654732
+Brazil,BRA,2006,"Coverage: Reading Proficiency Level 2, Private schools",2.0.cov.Read.pl_2.prv,83.7094530994794
+Brazil,BRA,2012,"Coverage: Reading Proficiency Level 2, Public schools",2.0.cov.Read.pl_2.pub,46.6728816366773
+Brazil,BRA,2009,"Coverage: Reading Proficiency Level 2, Public schools",2.0.cov.Read.pl_2.pub,49.66110360662
+Brazil,BRA,2006,"Coverage: Reading Proficiency Level 2, Public schools",2.0.cov.Read.pl_2.pub,40.0825353727285
+Brazil,BRA,2012,Coverage: Reading Proficiency Level 3,2.0.cov.Read.pl_3.all,21.5229963692261
+Brazil,BRA,2009,Coverage: Reading Proficiency Level 3,2.0.cov.Read.pl_3.all,26.0192751332657
+Brazil,BRA,2006,Coverage: Reading Proficiency Level 3,2.0.cov.Read.pl_3.all,19.7177118428719
+Brazil,BRA,2012,"Coverage: Reading Proficiency Level 3, Private schools",2.0.cov.Read.pl_3.prv,52.7727668334444
+Brazil,BRA,2009,"Coverage: Reading Proficiency Level 3, Private schools",2.0.cov.Read.pl_3.prv,72.1144655469255
+Brazil,BRA,2006,"Coverage: Reading Proficiency Level 3, Private schools",2.0.cov.Read.pl_3.prv,58.0113495062175
+Brazil,BRA,2012,"Coverage: Reading Proficiency Level 3, Public schools",2.0.cov.Read.pl_3.pub,14.1178025944377
+Brazil,BRA,2009,"Coverage: Reading Proficiency Level 3, Public schools",2.0.cov.Read.pl_3.pub,18.7317734180956
+Brazil,BRA,2006,"Coverage: Reading Proficiency Level 3, Public schools",2.0.cov.Read.pl_3.pub,12.8926499050646
+Brazil,BRA,2014,Coverage: Sanitation,2.0.cov.San,92.5768394439448
+Brazil,BRA,2012,Coverage: Sanitation,2.0.cov.San,91.6569924742675
+Brazil,BRA,2000,Coverage: Sanitation,2.0.cov.San,82.8351988950388
+Brazil,BRA,2014,Coverage: School Enrollment,2.0.cov.Sch,98.4147774502236
+Brazil,BRA,2012,Coverage: School Enrollment,2.0.cov.Sch,98.3741981127447
+Brazil,BRA,2000,Coverage: School Enrollment,2.0.cov.Sch,96.2437275380533
+Brazil,BRA,2012,Coverage: Science Proficiency Level 2,2.0.cov.Scie.pl_2.all,49.7614932460786
+Brazil,BRA,2009,Coverage: Science Proficiency Level 2,2.0.cov.Scie.pl_2.all,50.021833559134
+Brazil,BRA,2006,Coverage: Science Proficiency Level 2,2.0.cov.Scie.pl_2.all,41.7750934640938
+Brazil,BRA,2012,"Coverage: Science Proficiency Level 2, Private schools",2.0.cov.Scie.pl_2.prv,83.6154670186581
+Brazil,BRA,2009,"Coverage: Science Proficiency Level 2, Private schools",2.0.cov.Scie.pl_2.prv,90.1774243396187
+Brazil,BRA,2006,"Coverage: Science Proficiency Level 2, Private schools",2.0.cov.Scie.pl_2.prv,84.3001367702795
+Brazil,BRA,2012,"Coverage: Science Proficiency Level 2, Public schools",2.0.cov.Scie.pl_2.pub,41.6612369727922
+Brazil,BRA,2009,"Coverage: Science Proficiency Level 2, Public schools",2.0.cov.Scie.pl_2.pub,43.7062098061267
+Brazil,BRA,2006,"Coverage: Science Proficiency Level 2, Public schools",2.0.cov.Scie.pl_2.pub,34.1934052170907
+Brazil,BRA,2012,Coverage: Science Proficiency Level 3,2.0.cov.Scie.pl_3.all,16.2236552282333
+Brazil,BRA,2009,Coverage: Science Proficiency Level 3,2.0.cov.Scie.pl_3.all,19.0875702594044
+Brazil,BRA,2006,Coverage: Science Proficiency Level 3,2.0.cov.Scie.pl_3.all,16.5850703618941
+Brazil,BRA,2012,"Coverage: Science Proficiency Level 3, Private schools",2.0.cov.Scie.pl_3.prv,46.7285083100436
+Brazil,BRA,2009,"Coverage: Science Proficiency Level 3, Private schools",2.0.cov.Scie.pl_3.prv,66.1120026475456
+Brazil,BRA,2006,"Coverage: Science Proficiency Level 3, Private schools",2.0.cov.Scie.pl_3.prv,55.3102413307109
+Brazil,BRA,2012,"Coverage: Science Proficiency Level 3, Public schools",2.0.cov.Scie.pl_3.pub,8.98845703799228
+Brazil,BRA,2009,"Coverage: Science Proficiency Level 3, Public schools",2.0.cov.Scie.pl_3.pub,11.6399415025018
+Brazil,BRA,2006,"Coverage: Science Proficiency Level 3, Public schools",2.0.cov.Scie.pl_3.pub,9.68309642259401
+Brazil,BRA,2014,Coverage: Water,2.0.cov.Wat,92.9918893482547
+Brazil,BRA,2012,Coverage: Water,2.0.cov.Wat,91.8404564870663
+Brazil,BRA,2000,Coverage: Water,2.0.cov.Wat,81.1032045327566
+Brazil,BRA,2014,HOI: Mobile Phone,2.0.hoi.Cel,90.9139272515519
+Brazil,BRA,2012,HOI: Mobile Phone,2.0.hoi.Cel,86.6677093213217
+Brazil,BRA,2000,HOI: Mobile Phone,2.0.hoi.Cel,16.7350808289226
+Brazil,BRA,2014,HOI: Electricity,2.0.hoi.Ele,99.210859339566
+Brazil,BRA,2012,HOI: Electricity,2.0.hoi.Ele,98.6713951936501
+Brazil,BRA,2000,HOI: Electricity,2.0.hoi.Ele,89.9808407687023
+Brazil,BRA,2014,HOI: Internet,2.0.hoi.Int,28.2188949448462
+Brazil,BRA,2012,HOI: Internet,2.0.hoi.Int,25.0079306309635
+Brazil,BRA,2000,HOI: Internet,2.0.hoi.Int,1.81450770867098
+Brazil,BRA,2012,HOI: Mathematics Proficiency Level 2,2.0.hoi.Math.pl_2.all,27.758975174293
+Brazil,BRA,2009,HOI: Mathematics Proficiency Level 2,2.0.hoi.Math.pl_2.all,25.6546152999928
+Brazil,BRA,2006,HOI: Mathematics Proficiency Level 2,2.0.hoi.Math.pl_2.all,20.1847695569868
+Brazil,BRA,2012,"HOI: Mathematics Proficiency Level 2, Private schools",2.0.hoi.Math.pl_2.prv,65.5611064235439
+Brazil,BRA,2009,"HOI: Mathematics Proficiency Level 2, Private schools",2.0.hoi.Math.pl_2.prv,76.7869194832377
+Brazil,BRA,2006,"HOI: Mathematics Proficiency Level 2, Private schools",2.0.hoi.Math.pl_2.prv,68.7233839046089
+Brazil,BRA,2012,"HOI: Mathematics Proficiency Level 2, Public schools",2.0.hoi.Math.pl_2.pub,21.8477418231613
+Brazil,BRA,2009,"HOI: Mathematics Proficiency Level 2, Public schools",2.0.hoi.Math.pl_2.pub,20.7817019717226
+Brazil,BRA,2006,"HOI: Mathematics Proficiency Level 2, Public schools",2.0.hoi.Math.pl_2.pub,15.2591644316024
+Brazil,BRA,2012,HOI: Mathematics Proficiency Level 3,2.0.hoi.Math.pl_3.all,8.45034611326536
+Brazil,BRA,2009,HOI: Mathematics Proficiency Level 3,2.0.hoi.Math.pl_3.all,7.54480054302347
+Brazil,BRA,2006,HOI: Mathematics Proficiency Level 3,2.0.hoi.Math.pl_3.all,6.14494652728
+Brazil,BRA,2012,"HOI: Mathematics Proficiency Level 3, Private schools",2.0.hoi.Math.pl_3.prv,34.0212984201794
+Brazil,BRA,2009,"HOI: Mathematics Proficiency Level 3, Private schools",2.0.hoi.Math.pl_3.prv,47.2439746190298
+Brazil,BRA,2006,"HOI: Mathematics Proficiency Level 3, Private schools",2.0.hoi.Math.pl_3.prv,38.6157476437467
+Brazil,BRA,2012,"HOI: Mathematics Proficiency Level 3, Public schools",2.0.hoi.Math.pl_3.pub,4.79475623936927
+Brazil,BRA,2009,"HOI: Mathematics Proficiency Level 3, Public schools",2.0.hoi.Math.pl_3.pub,4.20087187129018
+Brazil,BRA,2006,"HOI: Mathematics Proficiency Level 3, Public schools",2.0.hoi.Math.pl_3.pub,3.17088168116809
+Brazil,BRA,2012,HOI: Reading Proficiency Level 2,2.0.hoi.Read.pl_2.all,45.6872137733371
+Brazil,BRA,2009,HOI: Reading Proficiency Level 2,2.0.hoi.Read.pl_2.all,46.6950598668099
+Brazil,BRA,2006,HOI: Reading Proficiency Level 2,2.0.hoi.Read.pl_2.all,37.6751659774978
+Brazil,BRA,2012,"HOI: Reading Proficiency Level 2, Private schools",2.0.hoi.Read.pl_2.prv,80.4933056078569
+Brazil,BRA,2009,"HOI: Reading Proficiency Level 2, Private schools",2.0.hoi.Read.pl_2.prv,87.6259616418149
+Brazil,BRA,2006,"HOI: Reading Proficiency Level 2, Private schools",2.0.hoi.Read.pl_2.prv,78.6863253229213
+Brazil,BRA,2012,"HOI: Reading Proficiency Level 2, Public schools",2.0.hoi.Read.pl_2.pub,39.5942260422238
+Brazil,BRA,2009,"HOI: Reading Proficiency Level 2, Public schools",2.0.hoi.Read.pl_2.pub,42.4397858613425
+Brazil,BRA,2006,"HOI: Reading Proficiency Level 2, Public schools",2.0.hoi.Read.pl_2.pub,32.8358648265097
+Brazil,BRA,2012,HOI: Reading Proficiency Level 3,2.0.hoi.Read.pl_3.all,15.1300678246153
+Brazil,BRA,2009,HOI: Reading Proficiency Level 3,2.0.hoi.Read.pl_3.all,18.193395054175
+Brazil,BRA,2006,HOI: Reading Proficiency Level 3,2.0.hoi.Read.pl_3.all,12.663428375872
+Brazil,BRA,2012,"HOI: Reading Proficiency Level 3, Private schools",2.0.hoi.Read.pl_3.prv,45.5254538489708
+Brazil,BRA,2009,"HOI: Reading Proficiency Level 3, Private schools",2.0.hoi.Read.pl_3.prv,65.6083797998604
+Brazil,BRA,2006,"HOI: Reading Proficiency Level 3, Private schools",2.0.hoi.Read.pl_3.prv,50.417612378685
+Brazil,BRA,2012,"HOI: Reading Proficiency Level 3, Public schools",2.0.hoi.Read.pl_3.pub,10.5380490966868
+Brazil,BRA,2009,"HOI: Reading Proficiency Level 3, Public schools",2.0.hoi.Read.pl_3.pub,13.9682632563268
+Brazil,BRA,2006,"HOI: Reading Proficiency Level 3, Public schools",2.0.hoi.Read.pl_3.pub,8.77976126650917
+Brazil,BRA,2014,HOI: Sanitation,2.0.hoi.San,89.3318261417323
+Brazil,BRA,2012,HOI: Sanitation,2.0.hoi.San,88.0274553337635
+Brazil,BRA,2000,HOI: Sanitation,2.0.hoi.San,75.4901847430857
+Brazil,BRA,2014,HOI: School Enrollment,2.0.hoi.Sch,97.9551253566317
+Brazil,BRA,2012,HOI: School Enrollment,2.0.hoi.Sch,97.9410078475242
+Brazil,BRA,2000,HOI: School Enrollment,2.0.hoi.Sch,95.2415421971909
+Brazil,BRA,2012,HOI: Science Proficiency Level 2,2.0.hoi.Scie.pl_2.all,41.8961794512551
+Brazil,BRA,2009,HOI: Science Proficiency Level 2,2.0.hoi.Scie.pl_2.all,42.0006935945397
+Brazil,BRA,2006,HOI: Science Proficiency Level 2,2.0.hoi.Scie.pl_2.all,32.633051704366
+Brazil,BRA,2012,"HOI: Science Proficiency Level 2, Private schools",2.0.hoi.Scie.pl_2.prv,79.6403792721214
+Brazil,BRA,2009,"HOI: Science Proficiency Level 2, Private schools",2.0.hoi.Scie.pl_2.prv,86.8736737398573
+Brazil,BRA,2006,"HOI: Science Proficiency Level 2, Private schools",2.0.hoi.Scie.pl_2.prv,78.6739097736408
+Brazil,BRA,2012,"HOI: Science Proficiency Level 2, Public schools",2.0.hoi.Scie.pl_2.pub,35.913845433148
+Brazil,BRA,2009,"HOI: Science Proficiency Level 2, Public schools",2.0.hoi.Scie.pl_2.pub,37.6732988960873
+Brazil,BRA,2006,"HOI: Science Proficiency Level 2, Public schools",2.0.hoi.Scie.pl_2.pub,27.5659278385185
+Brazil,BRA,2012,HOI: Science Proficiency Level 3,2.0.hoi.Scie.pl_3.all,10.5554637213662
+Brazil,BRA,2009,HOI: Science Proficiency Level 3,2.0.hoi.Scie.pl_3.all,12.3982284537204
+Brazil,BRA,2006,HOI: Science Proficiency Level 3,2.0.hoi.Scie.pl_3.all,10.2607321385907
+Brazil,BRA,2012,"HOI: Science Proficiency Level 3, Private schools",2.0.hoi.Scie.pl_3.prv,39.9731632390794
+Brazil,BRA,2009,"HOI: Science Proficiency Level 3, Private schools",2.0.hoi.Scie.pl_3.prv,59.4704130758205
+Brazil,BRA,2006,"HOI: Science Proficiency Level 3, Private schools",2.0.hoi.Scie.pl_3.prv,48.4273793706638
+Brazil,BRA,2012,"HOI: Science Proficiency Level 3, Public schools",2.0.hoi.Scie.pl_3.pub,6.4659937241589
+Brazil,BRA,2009,"HOI: Science Proficiency Level 3, Public schools",2.0.hoi.Scie.pl_3.pub,8.36807616125529
+Brazil,BRA,2006,"HOI: Science Proficiency Level 3, Public schools",2.0.hoi.Scie.pl_3.pub,6.68624242076975
+Brazil,BRA,2014,HOI: Water,2.0.hoi.Wat,88.9001276316853
+Brazil,BRA,2012,HOI: Water,2.0.hoi.Wat,87.2060457126028
+Brazil,BRA,2000,HOI: Water,2.0.hoi.Wat,71.9619157447046
+Brazil,BRA,2014,"Atkinson, A(.5)",3.0.Atkin.0.5,0.219583398292815
+Brazil,BRA,2012,"Atkinson, A(.5)",3.0.Atkin.0.5,0.230402600478467
+Brazil,BRA,2011,"Atkinson, A(.5)",3.0.Atkin.0.5,0.231451512894594
+Brazil,BRA,2009,"Atkinson, A(.5)",3.0.Atkin.0.5,0.238202999800689
+Brazil,BRA,2008,"Atkinson, A(.5)",3.0.Atkin.0.5,0.242207251398225
+Brazil,BRA,2007,"Atkinson, A(.5)",3.0.Atkin.0.5,0.248828028005549
+Brazil,BRA,2006,"Atkinson, A(.5)",3.0.Atkin.0.5,0.257346240590126
+Brazil,BRA,2005,"Atkinson, A(.5)",3.0.Atkin.0.5,0.263385227031147
+Brazil,BRA,2004,"Atkinson, A(.5)",3.0.Atkin.0.5,0.264705727621205
+Brazil,BRA,2003,"Atkinson, A(.5)",3.0.Atkin.0.5,0.273889865206476
+Brazil,BRA,2002,"Atkinson, A(.5)",3.0.Atkin.0.5,0.280294668279485
+Brazil,BRA,2001,"Atkinson, A(.5)",3.0.Atkin.0.5,0.286134878740671
+Brazil,BRA,2014,"Atkinson, A(1)",3.0.Atkin.1,0.378252854430671
+Brazil,BRA,2012,"Atkinson, A(1)",3.0.Atkin.1,0.390336391414902
+Brazil,BRA,2011,"Atkinson, A(1)",3.0.Atkin.1,0.397005448761848
+Brazil,BRA,2009,"Atkinson, A(1)",3.0.Atkin.1,0.406978511703843
+Brazil,BRA,2008,"Atkinson, A(1)",3.0.Atkin.1,0.41228757280401
+Brazil,BRA,2007,"Atkinson, A(1)",3.0.Atkin.1,0.423147761788389
+Brazil,BRA,2006,"Atkinson, A(1)",3.0.Atkin.1,0.43374371815198
+Brazil,BRA,2005,"Atkinson, A(1)",3.0.Atkin.1,0.441642760473595
+Brazil,BRA,2004,"Atkinson, A(1)",3.0.Atkin.1,0.445524592937979
+Brazil,BRA,2003,"Atkinson, A(1)",3.0.Atkin.1,0.460536460270924
+Brazil,BRA,2002,"Atkinson, A(1)",3.0.Atkin.1,0.466502375948262
+Brazil,BRA,2001,"Atkinson, A(1)",3.0.Atkin.1,0.475576492575789
+Brazil,BRA,2014,"Atkinson, A(2)",3.0.Atkin.2,0.616672073004219
+Brazil,BRA,2012,"Atkinson, A(2)",3.0.Atkin.2,0.635517903326165
+Brazil,BRA,2011,"Atkinson, A(2)",3.0.Atkin.2,0.643563975243455
+Brazil,BRA,2009,"Atkinson, A(2)",3.0.Atkin.2,0.648340630518246
+Brazil,BRA,2008,"Atkinson, A(2)",3.0.Atkin.2,0.657435522342745
+Brazil,BRA,2007,"Atkinson, A(2)",3.0.Atkin.2,0.682460990137652
+Brazil,BRA,2006,"Atkinson, A(2)",3.0.Atkin.2,0.671152375507413
+Brazil,BRA,2005,"Atkinson, A(2)",3.0.Atkin.2,0.679443374107898
+Brazil,BRA,2004,"Atkinson, A(2)",3.0.Atkin.2,0.690288019037503
+Brazil,BRA,2003,"Atkinson, A(2)",3.0.Atkin.2,0.714216783353579
+Brazil,BRA,2002,"Atkinson, A(2)",3.0.Atkin.2,0.702931751982949
+Brazil,BRA,2001,"Atkinson, A(2)",3.0.Atkin.2,0.713482455666828
+Brazil,BRA,2014,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,0.804366222201881
+Brazil,BRA,2012,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,0.871809492325715
+Brazil,BRA,2011,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,0.902776277570589
+Brazil,BRA,2009,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,0.921830451259968
+Brazil,BRA,2008,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,0.959579240146084
+Brazil,BRA,2007,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.07460968407219
+Brazil,BRA,2006,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.02046103654091
+Brazil,BRA,2005,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.05978681959379
+Brazil,BRA,2004,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.11440315756009
+Brazil,BRA,2003,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.24957789987601
+Brazil,BRA,2002,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.18311491833111
+Brazil,BRA,2001,"Generalized Entrophy, GE(-1)",3.0.GenEnt-1,1.24509383417918
+Brazil,BRA,2014,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.27926434626868
+Brazil,BRA,2012,"Generalized Entrophy, GE(2)",3.0.GenEnt2,2.32442383382564
+Brazil,BRA,2011,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.32403837628953
+Brazil,BRA,2009,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.44828590379165
+Brazil,BRA,2008,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.40223101839363
+Brazil,BRA,2007,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.3883585501954
+Brazil,BRA,2006,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.53266793509039
+Brazil,BRA,2005,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.62450676210706
+Brazil,BRA,2004,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.59756742956796
+Brazil,BRA,2003,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.52519820343184
+Brazil,BRA,2002,"Generalized Entrophy, GE(2)",3.0.GenEnt2,2.08546037569404
+Brazil,BRA,2001,"Generalized Entrophy, GE(2)",3.0.GenEnt2,1.7390584160206
+Brazil,BRA,2014,Gini Coefficient,3.0.Gini,0.51478924958339
+Brazil,BRA,2012,Gini Coefficient,3.0.Gini,0.526659184964391
+Brazil,BRA,2011,Gini Coefficient,3.0.Gini,0.53094681040784
+Brazil,BRA,2009,Gini Coefficient,3.0.Gini,0.538732304903425
+Brazil,BRA,2008,Gini Coefficient,3.0.Gini,0.543684561492718
+Brazil,BRA,2007,Gini Coefficient,3.0.Gini,0.552332327396143
+Brazil,BRA,2006,Gini Coefficient,3.0.Gini,0.559320912707545
+Brazil,BRA,2005,Gini Coefficient,3.0.Gini,0.566425552636042
+Brazil,BRA,2004,Gini Coefficient,3.0.Gini,0.568834491974126
+Brazil,BRA,2003,Gini Coefficient,3.0.Gini,0.580077636203864
+Brazil,BRA,2002,Gini Coefficient,3.0.Gini,0.586198262316749
+Brazil,BRA,2001,Gini Coefficient,3.0.Gini,0.593301624552143
+Brazil,BRA,2014,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.511831967643747
+Brazil,BRA,2012,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.521005953597564
+Brazil,BRA,2011,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.52523156354851
+Brazil,BRA,2009,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.534002121021629
+Brazil,BRA,2008,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.539011230125644
+Brazil,BRA,2007,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.546653586827721
+Brazil,BRA,2006,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.556138312911481
+Brazil,BRA,2005,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.562735931913608
+Brazil,BRA,2004,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.564604489514235
+Brazil,BRA,2003,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.574809866514717
+Brazil,BRA,2002,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.58151827016791
+Brazil,BRA,2001,Gini Coefficient (No Zero Income),3.0.Gini_nozero,0.586817261366153
+Brazil,BRA,2014,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.475221787271572
+Brazil,BRA,2012,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.494847935261988
+Brazil,BRA,2011,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.505847118384484
+Brazil,BRA,2009,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.522524644053585
+Brazil,BRA,2008,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.531517520112288
+Brazil,BRA,2007,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.550169131557763
+Brazil,BRA,2006,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.568708508474931
+Brazil,BRA,2005,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.582756307245626
+Brazil,BRA,2004,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.589732824731793
+Brazil,BRA,2003,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.617180078163638
+Brazil,BRA,2002,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.628300661761366
+Brazil,BRA,2001,"Mean Log Deviation, GE(0)",3.0.MLongDev0,0.645455700819514
+Brazil,BRA,2014,Rate 75/25,3.0.Rate75-25,3.15430521229797
+Brazil,BRA,2012,Rate 75/25,3.0.Rate75-25,3.27170399349436
+Brazil,BRA,2011,Rate 75/25,3.0.Rate75-25,3.31750335480497
+Brazil,BRA,2009,Rate 75/25,3.0.Rate75-25,3.42771944730395
+Brazil,BRA,2008,Rate 75/25,3.0.Rate75-25,3.46500021354903
+Brazil,BRA,2007,Rate 75/25,3.0.Rate75-25,3.65714289250632
+Brazil,BRA,2006,Rate 75/25,3.0.Rate75-25,3.63095247573369
+Brazil,BRA,2005,Rate 75/25,3.0.Rate75-25,3.75000029408664
+Brazil,BRA,2004,Rate 75/25,3.0.Rate75-25,3.80894090839071
+Brazil,BRA,2003,Rate 75/25,3.0.Rate75-25,4.0042763101712
+Brazil,BRA,2002,Rate 75/25,3.0.Rate75-25,4.01999998383546
+Brazil,BRA,2001,Rate 75/25,3.0.Rate75-25,4.1216214051042
+Brazil,BRA,2014,Rate 90/10,3.0.Rate90-10,9.99999982445652
+Brazil,BRA,2012,Rate 90/10,3.0.Rate90-10,10.6434452450064
+Brazil,BRA,2011,Rate 90/10,3.0.Rate90-10,11.1801252564418
+Brazil,BRA,2009,Rate 90/10,3.0.Rate90-10,11.9205634058062
+Brazil,BRA,2008,Rate 90/10,3.0.Rate90-10,12.0133331109848
+Brazil,BRA,2007,Rate 90/10,3.0.Rate90-10,12.8486057305486
+Brazil,BRA,2006,Rate 90/10,3.0.Rate90-10,12.8286883131995
+Brazil,BRA,2005,Rate 90/10,3.0.Rate90-10,13.4042560420913
+Brazil,BRA,2004,Rate 90/10,3.0.Rate90-10,13.8679744495634
+Brazil,BRA,2003,Rate 90/10,3.0.Rate90-10,15.2160008902912
+Brazil,BRA,2002,Rate 90/10,3.0.Rate90-10,15.2000003704374
+Brazil,BRA,2001,Rate 90/10,3.0.Rate90-10,16.6309521511214
+Brazil,BRA,2014,"Theil Index, GE(1)",3.0.TheilInd1,0.528995866394557
+Brazil,BRA,2012,"Theil Index, GE(1)",3.0.TheilInd1,0.580559600652979
+Brazil,BRA,2011,"Theil Index, GE(1)",3.0.TheilInd1,0.560040345635991
+Brazil,BRA,2009,"Theil Index, GE(1)",3.0.TheilInd1,0.57780128333543
+Brazil,BRA,2008,"Theil Index, GE(1)",3.0.TheilInd1,0.587927920980674
+Brazil,BRA,2007,"Theil Index, GE(1)",3.0.TheilInd1,0.602982084141438
+Brazil,BRA,2006,"Theil Index, GE(1)",3.0.TheilInd1,0.629052778272542
+Brazil,BRA,2005,"Theil Index, GE(1)",3.0.TheilInd1,0.647287736306804
+Brazil,BRA,2004,"Theil Index, GE(1)",3.0.TheilInd1,0.647225431846603
+Brazil,BRA,2003,"Theil Index, GE(1)",3.0.TheilInd1,0.666513620893662
+Brazil,BRA,2002,"Theil Index, GE(1)",3.0.TheilInd1,0.691530545397502
+Brazil,BRA,2001,"Theil Index, GE(1)",3.0.TheilInd1,0.706320621040332
+Brazil,BRA,2014,"Gini, Rural",3.1.Gini,0.478357329723431
+Brazil,BRA,2012,"Gini, Rural",3.1.Gini,0.494550637512442
+Brazil,BRA,2011,"Gini, Rural",3.1.Gini,0.501735737531983
+Brazil,BRA,2009,"Gini, Rural",3.1.Gini,0.492685589170945
+Brazil,BRA,2008,"Gini, Rural",3.1.Gini,0.500130121012467
+Brazil,BRA,2007,"Gini, Rural",3.1.Gini,0.513435832006388
+Brazil,BRA,2006,"Gini, Rural",3.1.Gini,0.507252871029476
+Brazil,BRA,2005,"Gini, Rural",3.1.Gini,0.508285653516204
+Brazil,BRA,2004,"Gini, Rural",3.1.Gini,0.520354938136247
+Brazil,BRA,2003,"Gini, Rural",3.1.Gini,0.534585396599192
+Brazil,BRA,2002,"Gini, Rural",3.1.Gini,0.514902788487344
+Brazil,BRA,2001,"Gini, Rural",3.1.Gini,0.540576414313004
+Brazil,BRA,2014,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.415764627957187
+Brazil,BRA,2012,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.438539089119479
+Brazil,BRA,2011,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.452368872913394
+Brazil,BRA,2009,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.428767447213754
+Brazil,BRA,2008,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.44085013256071
+Brazil,BRA,2007,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.461602143556368
+Brazil,BRA,2006,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.463169107989196
+Brazil,BRA,2005,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.45696491739725
+Brazil,BRA,2004,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.481070921415232
+Brazil,BRA,2003,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.513120727300299
+Brazil,BRA,2002,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.46487234657126
+Brazil,BRA,2001,"Mean Log Deviation, GE(0), Rural",3.1.MLongDev0,0.515729557998284
+Brazil,BRA,2014,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.433803148955373
+Brazil,BRA,2012,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.532131101082192
+Brazil,BRA,2011,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.498502697143082
+Brazil,BRA,2009,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.468740214060955
+Brazil,BRA,2008,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.506323031322684
+Brazil,BRA,2007,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.548752039701281
+Brazil,BRA,2006,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.548728165683444
+Brazil,BRA,2005,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.527123782150473
+Brazil,BRA,2004,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.578222905198557
+Brazil,BRA,2003,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.61316619928079
+Brazil,BRA,2002,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.546605173296602
+Brazil,BRA,2001,"Theil Index, GE(1), Rural",3.1.TheilInd1,0.631938266630384
+Brazil,BRA,2014,"Gini, Urban",3.2.Gini,0.511025686709004
+Brazil,BRA,2012,"Gini, Urban",3.2.Gini,0.520956490166621
+Brazil,BRA,2011,"Gini, Urban",3.2.Gini,0.524772023761873
+Brazil,BRA,2009,"Gini, Urban",3.2.Gini,0.534213230399868
+Brazil,BRA,2008,"Gini, Urban",3.2.Gini,0.537516862571464
+Brazil,BRA,2007,"Gini, Urban",3.2.Gini,0.545606909981948
+Brazil,BRA,2006,"Gini, Urban",3.2.Gini,0.552826522648048
+Brazil,BRA,2005,"Gini, Urban",3.2.Gini,0.560146891182591
+Brazil,BRA,2004,"Gini, Urban",3.2.Gini,0.562326809028035
+Brazil,BRA,2003,"Gini, Urban",3.2.Gini,0.573459999306339
+Brazil,BRA,2002,"Gini, Urban",3.2.Gini,0.578934224973349
+Brazil,BRA,2001,"Gini, Urban",3.2.Gini,0.58469122025442
+Brazil,BRA,2014,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.456073996843254
+Brazil,BRA,2012,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.46452810597724
+Brazil,BRA,2011,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.473763373897862
+Brazil,BRA,2009,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.498345031924761
+Brazil,BRA,2008,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.503456305649406
+Brazil,BRA,2007,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.518474419193327
+Brazil,BRA,2006,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.541715126928442
+Brazil,BRA,2005,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.556316544655821
+Brazil,BRA,2004,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.561721267483612
+Brazil,BRA,2003,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.583907002210821
+Brazil,BRA,2002,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.596002233682708
+Brazil,BRA,2001,"Mean Log Deviation, GE(0),Urban",3.2.MLongDev0,0.602783316087011
+Brazil,BRA,2014,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.530552682459152
+Brazil,BRA,2012,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.585161821175517
+Brazil,BRA,2011,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.565178655328984
+Brazil,BRA,2009,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.582743907985053
+Brazil,BRA,2008,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.587548204468071
+Brazil,BRA,2007,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.60391962904307
+Brazil,BRA,2006,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.619462071604277
+Brazil,BRA,2005,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.642510935785348
+Brazil,BRA,2004,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.642750138776239
+Brazil,BRA,2003,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.665783439891011
+Brazil,BRA,2002,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.687751404719495
+Brazil,BRA,2001,"Theil Index, GE(1),Urban",3.2.TheilInd1,0.706731640020215
+Brazil,BRA,2014,Labor Income Poverty Index,8.0.LIPI,0.822184860706329
+Brazil,BRA,2013,Labor Income Poverty Index,8.0.LIPI,0.818300247192383
+Brazil,BRA,2012,Labor Income Poverty Index,8.0.LIPI,0.856909275054932
+Brazil,BRA,2011,Labor Income Poverty Index,8.0.LIPI,0.911252915859222
+Brazil,BRA,2010,Labor Income Poverty Index,8.0.LIPI,0.951297283172607
+Brazil,BRA,2009,Labor Income Poverty Index,8.0.LIPI,1.08742797374725
+Brazil,BRA,2008,Labor Income Poverty Index,8.0.LIPI,1.13072776794434
+Brazil,BRA,2007,Labor Income Poverty Index,8.0.LIPI,1.22693192958832
+Brazil,BRA,2006,Labor Income Poverty Index,8.0.LIPI,1.32232213020325
+Brazil,BRA,2005,Labor Income Poverty Index,8.0.LIPI,1.33172047138214
+Brazil,BRA,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,16.2999992370605
+Brazil,BRA,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,16.2999992370605
+Brazil,BRA,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,22.2999992370605
+Brazil,BRA,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.8999996185303
+Brazil,BRA,2005,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,29
+Brazil,BRA,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,31.5
+Brazil,BRA,1995,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,34.0999984741211
+Brazil,BRA,1990,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,36.7000007629395
+Brazil,BRA,2020,Income share held by second 20%,SI.DST.02ND.20,8.7
+Brazil,BRA,2019,Income share held by second 20%,SI.DST.02ND.20,7.3
+Brazil,BRA,2018,Income share held by second 20%,SI.DST.02ND.20,7.3
+Brazil,BRA,2017,Income share held by second 20%,SI.DST.02ND.20,7.4
+Brazil,BRA,2016,Income share held by second 20%,SI.DST.02ND.20,7.4
+Brazil,BRA,2015,Income share held by second 20%,SI.DST.02ND.20,7.7
+Brazil,BRA,2014,Income share held by second 20%,SI.DST.02ND.20,7.7
+Brazil,BRA,2013,Income share held by second 20%,SI.DST.02ND.20,7.5
+Brazil,BRA,2012,Income share held by second 20%,SI.DST.02ND.20,7.4
+Brazil,BRA,2011,Income share held by second 20%,SI.DST.02ND.20,7.5
+Brazil,BRA,2009,Income share held by second 20%,SI.DST.02ND.20,7.2
+Brazil,BRA,2008,Income share held by second 20%,SI.DST.02ND.20,7.1
+Brazil,BRA,2007,Income share held by second 20%,SI.DST.02ND.20,6.9
+Brazil,BRA,2006,Income share held by second 20%,SI.DST.02ND.20,6.7
+Brazil,BRA,2005,Income share held by second 20%,SI.DST.02ND.20,6.5
+Brazil,BRA,2004,Income share held by second 20%,SI.DST.02ND.20,6.5
+Brazil,BRA,2003,Income share held by second 20%,SI.DST.02ND.20,6.2
+Brazil,BRA,2002,Income share held by second 20%,SI.DST.02ND.20,6.1
+Brazil,BRA,2001,Income share held by second 20%,SI.DST.02ND.20,6
+Brazil,BRA,1999,Income share held by second 20%,SI.DST.02ND.20,6
+Brazil,BRA,1998,Income share held by second 20%,SI.DST.02ND.20,5.8
+Brazil,BRA,1997,Income share held by second 20%,SI.DST.02ND.20,5.7
+Brazil,BRA,1996,Income share held by second 20%,SI.DST.02ND.20,5.7
+Brazil,BRA,1995,Income share held by second 20%,SI.DST.02ND.20,5.8
+Brazil,BRA,1993,Income share held by second 20%,SI.DST.02ND.20,5.8
+Brazil,BRA,1992,Income share held by second 20%,SI.DST.02ND.20,7.1
+Brazil,BRA,1990,Income share held by second 20%,SI.DST.02ND.20,5.5
+Brazil,BRA,1989,Income share held by second 20%,SI.DST.02ND.20,5
+Brazil,BRA,1988,Income share held by second 20%,SI.DST.02ND.20,5.3
+Brazil,BRA,1987,Income share held by second 20%,SI.DST.02ND.20,5.7
+Brazil,BRA,1986,Income share held by second 20%,SI.DST.02ND.20,6
+Brazil,BRA,1985,Income share held by second 20%,SI.DST.02ND.20,6.5
+Brazil,BRA,1984,Income share held by second 20%,SI.DST.02ND.20,6
+Brazil,BRA,1983,Income share held by second 20%,SI.DST.02ND.20,5.9
+Brazil,BRA,1982,Income share held by second 20%,SI.DST.02ND.20,6
+Brazil,BRA,1981,Income share held by second 20%,SI.DST.02ND.20,6.2
+Brazil,BRA,2020,Income share held by third 20%,SI.DST.03RD.20,12.9
+Brazil,BRA,2019,Income share held by third 20%,SI.DST.03RD.20,12.2
+Brazil,BRA,2018,Income share held by third 20%,SI.DST.03RD.20,12
+Brazil,BRA,2017,Income share held by third 20%,SI.DST.03RD.20,12.1
+Brazil,BRA,2016,Income share held by third 20%,SI.DST.03RD.20,12.1
+Brazil,BRA,2015,Income share held by third 20%,SI.DST.03RD.20,12.4
+Brazil,BRA,2014,Income share held by third 20%,SI.DST.03RD.20,12.3
+Brazil,BRA,2013,Income share held by third 20%,SI.DST.03RD.20,12.2
+Brazil,BRA,2012,Income share held by third 20%,SI.DST.03RD.20,12
+Brazil,BRA,2011,Income share held by third 20%,SI.DST.03RD.20,12.2
+Brazil,BRA,2009,Income share held by third 20%,SI.DST.03RD.20,11.9
+Brazil,BRA,2008,Income share held by third 20%,SI.DST.03RD.20,11.8
+Brazil,BRA,2007,Income share held by third 20%,SI.DST.03RD.20,11.6
+Brazil,BRA,2006,Income share held by third 20%,SI.DST.03RD.20,11.2
+Brazil,BRA,2005,Income share held by third 20%,SI.DST.03RD.20,11.1
+Brazil,BRA,2004,Income share held by third 20%,SI.DST.03RD.20,11
+Brazil,BRA,2003,Income share held by third 20%,SI.DST.03RD.20,10.7
+Brazil,BRA,2002,Income share held by third 20%,SI.DST.03RD.20,10.5
+Brazil,BRA,2001,Income share held by third 20%,SI.DST.03RD.20,10.5
+Brazil,BRA,1999,Income share held by third 20%,SI.DST.03RD.20,10.3
+Brazil,BRA,1998,Income share held by third 20%,SI.DST.03RD.20,10
+Brazil,BRA,1997,Income share held by third 20%,SI.DST.03RD.20,10
+Brazil,BRA,1996,Income share held by third 20%,SI.DST.03RD.20,10
+Brazil,BRA,1995,Income share held by third 20%,SI.DST.03RD.20,10.1
+Brazil,BRA,1993,Income share held by third 20%,SI.DST.03RD.20,10.1
+Brazil,BRA,1992,Income share held by third 20%,SI.DST.03RD.20,12.2
+Brazil,BRA,1990,Income share held by third 20%,SI.DST.03RD.20,9.7
+Brazil,BRA,1989,Income share held by third 20%,SI.DST.03RD.20,8.9
+Brazil,BRA,1988,Income share held by third 20%,SI.DST.03RD.20,9.6
+Brazil,BRA,1987,Income share held by third 20%,SI.DST.03RD.20,10.1
+Brazil,BRA,1986,Income share held by third 20%,SI.DST.03RD.20,10.3
+Brazil,BRA,1985,Income share held by third 20%,SI.DST.03RD.20,11
+Brazil,BRA,1984,Income share held by third 20%,SI.DST.03RD.20,10.2
+Brazil,BRA,1983,Income share held by third 20%,SI.DST.03RD.20,10
+Brazil,BRA,1982,Income share held by third 20%,SI.DST.03RD.20,10.3
+Brazil,BRA,1981,Income share held by third 20%,SI.DST.03RD.20,10.5
+Brazil,BRA,2020,Income share held by fourth 20%,SI.DST.04TH.20,19.3
+Brazil,BRA,2019,Income share held by fourth 20%,SI.DST.04TH.20,19.5
+Brazil,BRA,2018,Income share held by fourth 20%,SI.DST.04TH.20,19.3
+Brazil,BRA,2017,Income share held by fourth 20%,SI.DST.04TH.20,19.4
+Brazil,BRA,2016,Income share held by fourth 20%,SI.DST.04TH.20,19.3
+Brazil,BRA,2015,Income share held by fourth 20%,SI.DST.04TH.20,19.6
+Brazil,BRA,2014,Income share held by fourth 20%,SI.DST.04TH.20,19.5
+Brazil,BRA,2013,Income share held by fourth 20%,SI.DST.04TH.20,19.3
+Brazil,BRA,2012,Income share held by fourth 20%,SI.DST.04TH.20,19.2
+Brazil,BRA,2011,Income share held by fourth 20%,SI.DST.04TH.20,19.5
+Brazil,BRA,2009,Income share held by fourth 20%,SI.DST.04TH.20,19.4
+Brazil,BRA,2008,Income share held by fourth 20%,SI.DST.04TH.20,19.3
+Brazil,BRA,2007,Income share held by fourth 20%,SI.DST.04TH.20,19.2
+Brazil,BRA,2006,Income share held by fourth 20%,SI.DST.04TH.20,18.8
+Brazil,BRA,2005,Income share held by fourth 20%,SI.DST.04TH.20,18.7
+Brazil,BRA,2004,Income share held by fourth 20%,SI.DST.04TH.20,18.8
+Brazil,BRA,2003,Income share held by fourth 20%,SI.DST.04TH.20,18.7
+Brazil,BRA,2002,Income share held by fourth 20%,SI.DST.04TH.20,18.3
+Brazil,BRA,2001,Income share held by fourth 20%,SI.DST.04TH.20,18.5
+Brazil,BRA,1999,Income share held by fourth 20%,SI.DST.04TH.20,18
+Brazil,BRA,1998,Income share held by fourth 20%,SI.DST.04TH.20,17.9
+Brazil,BRA,1997,Income share held by fourth 20%,SI.DST.04TH.20,18.1
+Brazil,BRA,1996,Income share held by fourth 20%,SI.DST.04TH.20,18.2
+Brazil,BRA,1995,Income share held by fourth 20%,SI.DST.04TH.20,17.9
+Brazil,BRA,1993,Income share held by fourth 20%,SI.DST.04TH.20,17.5
+Brazil,BRA,1992,Income share held by fourth 20%,SI.DST.04TH.20,20.8
+Brazil,BRA,1990,Income share held by fourth 20%,SI.DST.04TH.20,17.9
+Brazil,BRA,1989,Income share held by fourth 20%,SI.DST.04TH.20,16.8
+Brazil,BRA,1988,Income share held by fourth 20%,SI.DST.04TH.20,17.5
+Brazil,BRA,1987,Income share held by fourth 20%,SI.DST.04TH.20,18.1
+Brazil,BRA,1986,Income share held by fourth 20%,SI.DST.04TH.20,18.2
+Brazil,BRA,1985,Income share held by fourth 20%,SI.DST.04TH.20,19.7
+Brazil,BRA,1984,Income share held by fourth 20%,SI.DST.04TH.20,18.1
+Brazil,BRA,1983,Income share held by fourth 20%,SI.DST.04TH.20,18.1
+Brazil,BRA,1982,Income share held by fourth 20%,SI.DST.04TH.20,18.3
+Brazil,BRA,1981,Income share held by fourth 20%,SI.DST.04TH.20,18.4
+Brazil,BRA,2020,Income share held by highest 20%,SI.DST.05TH.20,54.7
+Brazil,BRA,2019,Income share held by highest 20%,SI.DST.05TH.20,57.8
+Brazil,BRA,2018,Income share held by highest 20%,SI.DST.05TH.20,58.3
+Brazil,BRA,2017,Income share held by highest 20%,SI.DST.05TH.20,57.8
+Brazil,BRA,2016,Income share held by highest 20%,SI.DST.05TH.20,58
+Brazil,BRA,2015,Income share held by highest 20%,SI.DST.05TH.20,56.7
+Brazil,BRA,2014,Income share held by highest 20%,SI.DST.05TH.20,56.9
+Brazil,BRA,2013,Income share held by highest 20%,SI.DST.05TH.20,57.5
+Brazil,BRA,2012,Income share held by highest 20%,SI.DST.05TH.20,58.1
+Brazil,BRA,2011,Income share held by highest 20%,SI.DST.05TH.20,57.5
+Brazil,BRA,2009,Income share held by highest 20%,SI.DST.05TH.20,58.2
+Brazil,BRA,2008,Income share held by highest 20%,SI.DST.05TH.20,58.6
+Brazil,BRA,2007,Income share held by highest 20%,SI.DST.05TH.20,59.3
+Brazil,BRA,2006,Income share held by highest 20%,SI.DST.05TH.20,60.1
+Brazil,BRA,2005,Income share held by highest 20%,SI.DST.05TH.20,60.7
+Brazil,BRA,2004,Income share held by highest 20%,SI.DST.05TH.20,60.8
+Brazil,BRA,2003,Income share held by highest 20%,SI.DST.05TH.20,61.8
+Brazil,BRA,2002,Income share held by highest 20%,SI.DST.05TH.20,62.4
+Brazil,BRA,2001,Income share held by highest 20%,SI.DST.05TH.20,62.5
+Brazil,BRA,1999,Income share held by highest 20%,SI.DST.05TH.20,63.3
+Brazil,BRA,1998,Income share held by highest 20%,SI.DST.05TH.20,63.8
+Brazil,BRA,1997,Income share held by highest 20%,SI.DST.05TH.20,63.8
+Brazil,BRA,1996,Income share held by highest 20%,SI.DST.05TH.20,63.9
+Brazil,BRA,1995,Income share held by highest 20%,SI.DST.05TH.20,63.8
+Brazil,BRA,1993,Income share held by highest 20%,SI.DST.05TH.20,64.3
+Brazil,BRA,1992,Income share held by highest 20%,SI.DST.05TH.20,57.1
+Brazil,BRA,1990,Income share held by highest 20%,SI.DST.05TH.20,64.6
+Brazil,BRA,1989,Income share held by highest 20%,SI.DST.05TH.20,67.3
+Brazil,BRA,1988,Income share held by highest 20%,SI.DST.05TH.20,65.5
+Brazil,BRA,1987,Income share held by highest 20%,SI.DST.05TH.20,63.7
+Brazil,BRA,1986,Income share held by highest 20%,SI.DST.05TH.20,62.8
+Brazil,BRA,1985,Income share held by highest 20%,SI.DST.05TH.20,60
+Brazil,BRA,1984,Income share held by highest 20%,SI.DST.05TH.20,62.9
+Brazil,BRA,1983,Income share held by highest 20%,SI.DST.05TH.20,63.4
+Brazil,BRA,1982,Income share held by highest 20%,SI.DST.05TH.20,62.7
+Brazil,BRA,1981,Income share held by highest 20%,SI.DST.05TH.20,62.3
+Brazil,BRA,2020,Income share held by highest 10%,SI.DST.10TH.10,39.4
+Brazil,BRA,2019,Income share held by highest 10%,SI.DST.10TH.10,41.9
+Brazil,BRA,2018,Income share held by highest 10%,SI.DST.10TH.10,42.5
+Brazil,BRA,2017,Income share held by highest 10%,SI.DST.10TH.10,42
+Brazil,BRA,2016,Income share held by highest 10%,SI.DST.10TH.10,42
+Brazil,BRA,2015,Income share held by highest 10%,SI.DST.10TH.10,40.9
+Brazil,BRA,2014,Income share held by highest 10%,SI.DST.10TH.10,41
+Brazil,BRA,2013,Income share held by highest 10%,SI.DST.10TH.10,41.7
+Brazil,BRA,2012,Income share held by highest 10%,SI.DST.10TH.10,42.4
+Brazil,BRA,2011,Income share held by highest 10%,SI.DST.10TH.10,41.7
+Brazil,BRA,2009,Income share held by highest 10%,SI.DST.10TH.10,42.2
+Brazil,BRA,2008,Income share held by highest 10%,SI.DST.10TH.10,42.5
+Brazil,BRA,2007,Income share held by highest 10%,SI.DST.10TH.10,43.2
+Brazil,BRA,2006,Income share held by highest 10%,SI.DST.10TH.10,44.1
+Brazil,BRA,2005,Income share held by highest 10%,SI.DST.10TH.10,44.6
+Brazil,BRA,2004,Income share held by highest 10%,SI.DST.10TH.10,44.5
+Brazil,BRA,2003,Income share held by highest 10%,SI.DST.10TH.10,45.4
+Brazil,BRA,2002,Income share held by highest 10%,SI.DST.10TH.10,46.1
+Brazil,BRA,2001,Income share held by highest 10%,SI.DST.10TH.10,46.1
+Brazil,BRA,1999,Income share held by highest 10%,SI.DST.10TH.10,47
+Brazil,BRA,1998,Income share held by highest 10%,SI.DST.10TH.10,47.6
+Brazil,BRA,1997,Income share held by highest 10%,SI.DST.10TH.10,47.4
+Brazil,BRA,1996,Income share held by highest 10%,SI.DST.10TH.10,47.4
+Brazil,BRA,1995,Income share held by highest 10%,SI.DST.10TH.10,47.5
+Brazil,BRA,1993,Income share held by highest 10%,SI.DST.10TH.10,48.5
+Brazil,BRA,1992,Income share held by highest 10%,SI.DST.10TH.10,39.7
+Brazil,BRA,1990,Income share held by highest 10%,SI.DST.10TH.10,48.1
+Brazil,BRA,1989,Income share held by highest 10%,SI.DST.10TH.10,51.1
+Brazil,BRA,1988,Income share held by highest 10%,SI.DST.10TH.10,49.2
+Brazil,BRA,1987,Income share held by highest 10%,SI.DST.10TH.10,47.4
+Brazil,BRA,1986,Income share held by highest 10%,SI.DST.10TH.10,46.6
+Brazil,BRA,1985,Income share held by highest 10%,SI.DST.10TH.10,42.5
+Brazil,BRA,1984,Income share held by highest 10%,SI.DST.10TH.10,46.5
+Brazil,BRA,1983,Income share held by highest 10%,SI.DST.10TH.10,46.8
+Brazil,BRA,1982,Income share held by highest 10%,SI.DST.10TH.10,46.2
+Brazil,BRA,1981,Income share held by highest 10%,SI.DST.10TH.10,45.9
+Brazil,BRA,2020,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,18.3
+Brazil,BRA,2019,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.1
+Brazil,BRA,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23.5
+Brazil,BRA,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23.1
+Brazil,BRA,2016,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23
+Brazil,BRA,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,22.5
+Brazil,BRA,2014,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,22.2
+Brazil,BRA,2013,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,22.5
+Brazil,BRA,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,22.8
+Brazil,BRA,2011,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23
+Brazil,BRA,2009,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23.4
+Brazil,BRA,2008,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23.5
+Brazil,BRA,2007,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.2
+Brazil,BRA,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,23.6
+Brazil,BRA,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.3
+Brazil,BRA,2004,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.5
+Brazil,BRA,2003,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.3
+Brazil,BRA,2002,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.3
+Brazil,BRA,2001,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.9
+Brazil,BRA,1999,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.2
+Brazil,BRA,1998,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25
+Brazil,BRA,1997,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.3
+Brazil,BRA,1996,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,26.2
+Brazil,BRA,1995,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.2
+Brazil,BRA,1993,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.2
+Brazil,BRA,1992,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.3
+Brazil,BRA,1990,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.9
+Brazil,BRA,1989,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,26.5
+Brazil,BRA,1988,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,26.5
+Brazil,BRA,1987,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.7
+Brazil,BRA,1986,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.5
+Brazil,BRA,1985,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.5
+Brazil,BRA,1984,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24
+Brazil,BRA,1983,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25.1
+Brazil,BRA,1982,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,25
+Brazil,BRA,1981,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,24.6
+Brazil,BRA,2020,Income share held by lowest 10%,SI.DST.FRST.10,1.6
+Brazil,BRA,2019,Income share held by lowest 10%,SI.DST.FRST.10,0.9
+Brazil,BRA,2018,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2017,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2016,Income share held by lowest 10%,SI.DST.FRST.10,1.1
+Brazil,BRA,2015,Income share held by lowest 10%,SI.DST.FRST.10,1.2
+Brazil,BRA,2014,Income share held by lowest 10%,SI.DST.FRST.10,1.2
+Brazil,BRA,2013,Income share held by lowest 10%,SI.DST.FRST.10,1.2
+Brazil,BRA,2012,Income share held by lowest 10%,SI.DST.FRST.10,1.1
+Brazil,BRA,2011,Income share held by lowest 10%,SI.DST.FRST.10,1.1
+Brazil,BRA,2009,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2008,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2007,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2006,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2005,Income share held by lowest 10%,SI.DST.FRST.10,1
+Brazil,BRA,2004,Income share held by lowest 10%,SI.DST.FRST.10,0.9
+Brazil,BRA,2003,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,2002,Income share held by lowest 10%,SI.DST.FRST.10,0.9
+Brazil,BRA,2001,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1999,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1998,Income share held by lowest 10%,SI.DST.FRST.10,0.7
+Brazil,BRA,1997,Income share held by lowest 10%,SI.DST.FRST.10,0.7
+Brazil,BRA,1996,Income share held by lowest 10%,SI.DST.FRST.10,0.7
+Brazil,BRA,1995,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1993,Income share held by lowest 10%,SI.DST.FRST.10,0.7
+Brazil,BRA,1992,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1990,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1989,Income share held by lowest 10%,SI.DST.FRST.10,0.6
+Brazil,BRA,1988,Income share held by lowest 10%,SI.DST.FRST.10,0.6
+Brazil,BRA,1987,Income share held by lowest 10%,SI.DST.FRST.10,0.7
+Brazil,BRA,1986,Income share held by lowest 10%,SI.DST.FRST.10,0.9
+Brazil,BRA,1985,Income share held by lowest 10%,SI.DST.FRST.10,0.9
+Brazil,BRA,1984,Income share held by lowest 10%,SI.DST.FRST.10,0.9
+Brazil,BRA,1983,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1982,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,1981,Income share held by lowest 10%,SI.DST.FRST.10,0.8
+Brazil,BRA,2020,Income share held by lowest 20%,SI.DST.FRST.20,4.5
+Brazil,BRA,2019,Income share held by lowest 20%,SI.DST.FRST.20,3.1
+Brazil,BRA,2018,Income share held by lowest 20%,SI.DST.FRST.20,3.1
+Brazil,BRA,2017,Income share held by lowest 20%,SI.DST.FRST.20,3.2
+Brazil,BRA,2016,Income share held by lowest 20%,SI.DST.FRST.20,3.3
+Brazil,BRA,2015,Income share held by lowest 20%,SI.DST.FRST.20,3.6
+Brazil,BRA,2014,Income share held by lowest 20%,SI.DST.FRST.20,3.6
+Brazil,BRA,2013,Income share held by lowest 20%,SI.DST.FRST.20,3.5
+Brazil,BRA,2012,Income share held by lowest 20%,SI.DST.FRST.20,3.4
+Brazil,BRA,2011,Income share held by lowest 20%,SI.DST.FRST.20,3.3
+Brazil,BRA,2009,Income share held by lowest 20%,SI.DST.FRST.20,3.2
+Brazil,BRA,2008,Income share held by lowest 20%,SI.DST.FRST.20,3.2
+Brazil,BRA,2007,Income share held by lowest 20%,SI.DST.FRST.20,3
+Brazil,BRA,2006,Income share held by lowest 20%,SI.DST.FRST.20,3
+Brazil,BRA,2005,Income share held by lowest 20%,SI.DST.FRST.20,2.9
+Brazil,BRA,2004,Income share held by lowest 20%,SI.DST.FRST.20,2.9
+Brazil,BRA,2003,Income share held by lowest 20%,SI.DST.FRST.20,2.6
+Brazil,BRA,2002,Income share held by lowest 20%,SI.DST.FRST.20,2.6
+Brazil,BRA,2001,Income share held by lowest 20%,SI.DST.FRST.20,2.5
+Brazil,BRA,1999,Income share held by lowest 20%,SI.DST.FRST.20,2.5
+Brazil,BRA,1998,Income share held by lowest 20%,SI.DST.FRST.20,2.4
+Brazil,BRA,1997,Income share held by lowest 20%,SI.DST.FRST.20,2.3
+Brazil,BRA,1996,Income share held by lowest 20%,SI.DST.FRST.20,2.2
+Brazil,BRA,1995,Income share held by lowest 20%,SI.DST.FRST.20,2.4
+Brazil,BRA,1993,Income share held by lowest 20%,SI.DST.FRST.20,2.4
+Brazil,BRA,1992,Income share held by lowest 20%,SI.DST.FRST.20,2.8
+Brazil,BRA,1990,Income share held by lowest 20%,SI.DST.FRST.20,2.3
+Brazil,BRA,1989,Income share held by lowest 20%,SI.DST.FRST.20,2
+Brazil,BRA,1988,Income share held by lowest 20%,SI.DST.FRST.20,2.1
+Brazil,BRA,1987,Income share held by lowest 20%,SI.DST.FRST.20,2.4
+Brazil,BRA,1986,Income share held by lowest 20%,SI.DST.FRST.20,2.7
+Brazil,BRA,1985,Income share held by lowest 20%,SI.DST.FRST.20,2.9
+Brazil,BRA,1984,Income share held by lowest 20%,SI.DST.FRST.20,2.7
+Brazil,BRA,1983,Income share held by lowest 20%,SI.DST.FRST.20,2.6
+Brazil,BRA,1982,Income share held by lowest 20%,SI.DST.FRST.20,2.6
+Brazil,BRA,1981,Income share held by lowest 20%,SI.DST.FRST.20,2.7
+Brazil,BRA,2020,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.7
+Brazil,BRA,2019,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.9
+Brazil,BRA,2018,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.7
+Brazil,BRA,2017,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.7
+Brazil,BRA,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.1
+Brazil,BRA,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.4
+Brazil,BRA,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,2.9
+Brazil,BRA,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.2
+Brazil,BRA,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.9
+Brazil,BRA,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.7
+Brazil,BRA,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,5.4
+Brazil,BRA,2008,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,5.5
+Brazil,BRA,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,6.7
+Brazil,BRA,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,7.2
+Brazil,BRA,2005,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,8.6
+Brazil,BRA,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,9.7
+Brazil,BRA,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11
+Brazil,BRA,2002,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,10.2
+Brazil,BRA,2001,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.5
+Brazil,BRA,1999,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.3
+Brazil,BRA,1998,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,12.7
+Brazil,BRA,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,14
+Brazil,BRA,1996,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,14.1
+Brazil,BRA,1995,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,12.9
+Brazil,BRA,1993,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,19.8
+Brazil,BRA,1992,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,20.7
+Brazil,BRA,1990,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,21.5
+Brazil,BRA,1989,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,18.2
+Brazil,BRA,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,20
+Brazil,BRA,1987,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,17.7
+Brazil,BRA,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,10.5
+Brazil,BRA,1985,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,23.1
+Brazil,BRA,1984,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,26.7
+Brazil,BRA,1983,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,27.4
+Brazil,BRA,1982,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,21.7
+Brazil,BRA,1981,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,21.3
+Brazil,BRA,2020,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,0.6
+Brazil,BRA,2019,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.8
+Brazil,BRA,2018,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.7
+Brazil,BRA,2017,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.7
+Brazil,BRA,2016,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.5
+Brazil,BRA,2015,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.1
+Brazil,BRA,2014,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,0.9
+Brazil,BRA,2013,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.1
+Brazil,BRA,2012,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.5
+Brazil,BRA,2011,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.9
+Brazil,BRA,2009,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,2.1
+Brazil,BRA,2008,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,2.2
+Brazil,BRA,2007,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,2.8
+Brazil,BRA,2006,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,2.7
+Brazil,BRA,2005,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,3.1
+Brazil,BRA,2004,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,3.6
+Brazil,BRA,2003,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,4.3
+Brazil,BRA,2002,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,3.8
+Brazil,BRA,2001,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,4.6
+Brazil,BRA,1999,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,5.4
+Brazil,BRA,1998,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,5.2
+Brazil,BRA,1997,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,5.9
+Brazil,BRA,1996,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,6.1
+Brazil,BRA,1995,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,5.3
+Brazil,BRA,1993,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,8.5
+Brazil,BRA,1992,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,9.1
+Brazil,BRA,1990,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,8.7
+Brazil,BRA,1989,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,7.7
+Brazil,BRA,1988,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,8.5
+Brazil,BRA,1987,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,7.2
+Brazil,BRA,1986,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,4
+Brazil,BRA,1985,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,9
+Brazil,BRA,1984,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,10.6
+Brazil,BRA,1983,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,11.2
+Brazil,BRA,1982,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,8.6
+Brazil,BRA,1981,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,8.5
+Brazil,BRA,2020,Gini index,SI.POV.GINI,48.9
+Brazil,BRA,2019,Gini index,SI.POV.GINI,53.5
+Brazil,BRA,2018,Gini index,SI.POV.GINI,53.9
+Brazil,BRA,2017,Gini index,SI.POV.GINI,53.3
+Brazil,BRA,2016,Gini index,SI.POV.GINI,53.3
+Brazil,BRA,2015,Gini index,SI.POV.GINI,51.9
+Brazil,BRA,2014,Gini index,SI.POV.GINI,52
+Brazil,BRA,2013,Gini index,SI.POV.GINI,52.7
+Brazil,BRA,2012,Gini index,SI.POV.GINI,53.4
+Brazil,BRA,2011,Gini index,SI.POV.GINI,52.9
+Brazil,BRA,2009,Gini index,SI.POV.GINI,53.7
+Brazil,BRA,2008,Gini index,SI.POV.GINI,54
+Brazil,BRA,2007,Gini index,SI.POV.GINI,54.9
+Brazil,BRA,2006,Gini index,SI.POV.GINI,55.6
+Brazil,BRA,2005,Gini index,SI.POV.GINI,56.3
+Brazil,BRA,2004,Gini index,SI.POV.GINI,56.5
+Brazil,BRA,2003,Gini index,SI.POV.GINI,57.6
+Brazil,BRA,2002,Gini index,SI.POV.GINI,58.1
+Brazil,BRA,2001,Gini index,SI.POV.GINI,58.4
+Brazil,BRA,1999,Gini index,SI.POV.GINI,59
+Brazil,BRA,1998,Gini index,SI.POV.GINI,59.6
+Brazil,BRA,1997,Gini index,SI.POV.GINI,59.8
+Brazil,BRA,1996,Gini index,SI.POV.GINI,59.9
+Brazil,BRA,1995,Gini index,SI.POV.GINI,59.6
+Brazil,BRA,1993,Gini index,SI.POV.GINI,60.1
+Brazil,BRA,1992,Gini index,SI.POV.GINI,53.2
+Brazil,BRA,1990,Gini index,SI.POV.GINI,60.5
+Brazil,BRA,1989,Gini index,SI.POV.GINI,63.3
+Brazil,BRA,1988,Gini index,SI.POV.GINI,61.4
+Brazil,BRA,1987,Gini index,SI.POV.GINI,59.7
+Brazil,BRA,1986,Gini index,SI.POV.GINI,58.5
+Brazil,BRA,1985,Gini index,SI.POV.GINI,55.6
+Brazil,BRA,1984,Gini index,SI.POV.GINI,58.4
+Brazil,BRA,1983,Gini index,SI.POV.GINI,59
+Brazil,BRA,1982,Gini index,SI.POV.GINI,58.4
+Brazil,BRA,1981,Gini index,SI.POV.GINI,57.9
+Brazil,BRA,2020,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,4.3
+Brazil,BRA,2019,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,9.5
+Brazil,BRA,2018,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,9.6
+Brazil,BRA,2017,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,9.5
+Brazil,BRA,2016,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,9.3
+Brazil,BRA,2015,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,8.1
+Brazil,BRA,2014,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,7.3
+Brazil,BRA,2013,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,8.1
+Brazil,BRA,2012,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,9.3
+Brazil,BRA,2011,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,10.2
+Brazil,BRA,2009,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,12.4
+Brazil,BRA,2008,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,13.4
+Brazil,BRA,2007,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,15.6
+Brazil,BRA,2006,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,17
+Brazil,BRA,2005,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,19.6
+Brazil,BRA,2004,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,21.4
+Brazil,BRA,2003,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,23.3
+Brazil,BRA,2002,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,22.3
+Brazil,BRA,2001,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,23.3
+Brazil,BRA,1999,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,27.1
+Brazil,BRA,1998,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,25.3
+Brazil,BRA,1997,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,27.5
+Brazil,BRA,1996,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,27.2
+Brazil,BRA,1995,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,26.8
+Brazil,BRA,1993,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,36.3
+Brazil,BRA,1992,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,37.1
+Brazil,BRA,1990,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,38.3
+Brazil,BRA,1989,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,33
+Brazil,BRA,1988,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,35.7
+Brazil,BRA,1987,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,33
+Brazil,BRA,1986,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,23.2
+Brazil,BRA,1985,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,41.5
+Brazil,BRA,1984,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,46.4
+Brazil,BRA,1983,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,47.1
+Brazil,BRA,1982,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,39
+Brazil,BRA,1981,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,39
+Brazil,BRA,2020,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,1.5
+Brazil,BRA,2019,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,4
+Brazil,BRA,2018,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,3.9
+Brazil,BRA,2017,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,3.9
+Brazil,BRA,2016,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,3.6
+Brazil,BRA,2015,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,2.9
+Brazil,BRA,2014,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,2.6
+Brazil,BRA,2013,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,2.9
+Brazil,BRA,2012,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,3.5
+Brazil,BRA,2011,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,4.1
+Brazil,BRA,2009,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,4.8
+Brazil,BRA,2008,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,5
+Brazil,BRA,2007,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,6.1
+Brazil,BRA,2006,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,6.3
+Brazil,BRA,2005,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,7.5
+Brazil,BRA,2004,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,8.4
+Brazil,BRA,2003,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,9.5
+Brazil,BRA,2002,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,8.9
+Brazil,BRA,2001,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,9.8
+Brazil,BRA,1999,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,11.3
+Brazil,BRA,1998,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,10.8
+Brazil,BRA,1997,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,11.9
+Brazil,BRA,1996,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,12
+Brazil,BRA,1995,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,11.2
+Brazil,BRA,1993,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,16.5
+Brazil,BRA,1992,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,17.3
+Brazil,BRA,1990,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,17.5
+Brazil,BRA,1989,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,15.1
+Brazil,BRA,1988,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,16.5
+Brazil,BRA,1987,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,14.7
+Brazil,BRA,1986,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,9.2
+Brazil,BRA,1985,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,18.6
+Brazil,BRA,1984,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,21.3
+Brazil,BRA,1983,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,22
+Brazil,BRA,1982,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,17.6
+Brazil,BRA,1981,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,17.5
+Brazil,BRA,2020,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,13.1
+Brazil,BRA,2019,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,20.6
+Brazil,BRA,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,20.8
+Brazil,BRA,2017,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,21.2
+Brazil,BRA,2016,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,21.1
+Brazil,BRA,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,19.5
+Brazil,BRA,2014,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,18.4
+Brazil,BRA,2013,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,19.9
+Brazil,BRA,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,21.7
+Brazil,BRA,2011,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,23.8
+Brazil,BRA,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,27.3
+Brazil,BRA,2008,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,28.7
+Brazil,BRA,2007,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,31.9
+Brazil,BRA,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,34
+Brazil,BRA,2005,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,37.9
+Brazil,BRA,2004,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,40.1
+Brazil,BRA,2003,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,41.5
+Brazil,BRA,2002,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,40.3
+Brazil,BRA,2001,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,41.1
+Brazil,BRA,1999,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,45.8
+Brazil,BRA,1998,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,44.5
+Brazil,BRA,1997,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,45.5
+Brazil,BRA,1996,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,45.5
+Brazil,BRA,1995,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,45
+Brazil,BRA,1993,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,56.6
+Brazil,BRA,1992,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,58
+Brazil,BRA,1990,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,57.6
+Brazil,BRA,1989,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,52
+Brazil,BRA,1988,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,54.8
+Brazil,BRA,1987,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,52.7
+Brazil,BRA,1986,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,42.2
+Brazil,BRA,1985,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,61.4
+Brazil,BRA,1984,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,66.5
+Brazil,BRA,1983,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,66.4
+Brazil,BRA,1982,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,59.8
+Brazil,BRA,1981,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,60.2
+Brazil,BRA,2020,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,4.4
+Brazil,BRA,2019,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,8.5
+Brazil,BRA,2018,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,8.5
+Brazil,BRA,2017,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,8.6
+Brazil,BRA,2016,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,8.3
+Brazil,BRA,2015,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,7.3
+Brazil,BRA,2014,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,6.7
+Brazil,BRA,2013,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,7.4
+Brazil,BRA,2012,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,8.5
+Brazil,BRA,2011,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,9.5
+Brazil,BRA,2009,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,11.1
+Brazil,BRA,2008,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,11.8
+Brazil,BRA,2007,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,13.6
+Brazil,BRA,2006,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,14.4
+Brazil,BRA,2005,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,16.6
+Brazil,BRA,2004,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,17.9
+Brazil,BRA,2003,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,19.2
+Brazil,BRA,2002,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,18.5
+Brazil,BRA,2001,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,19.4
+Brazil,BRA,1999,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,22.1
+Brazil,BRA,1998,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,21.2
+Brazil,BRA,1997,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,22.4
+Brazil,BRA,1996,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,22.3
+Brazil,BRA,1995,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,21.7
+Brazil,BRA,1993,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,29.4
+Brazil,BRA,1992,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,30.3
+Brazil,BRA,1990,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,30.6
+Brazil,BRA,1989,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,26.9
+Brazil,BRA,1988,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,28.9
+Brazil,BRA,1987,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,26.7
+Brazil,BRA,1986,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,19.2
+Brazil,BRA,1985,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,32.8
+Brazil,BRA,1984,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,36.5
+Brazil,BRA,1983,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,37
+Brazil,BRA,1982,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,31.4
+Brazil,BRA,1981,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,31.4
+Brazil,BRA,2019,"Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",SI.SPR.PC40,5.32
+Brazil,BRA,2014,"Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",SI.SPR.PC40,5.71
+Brazil,BRA,2019,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,-1.4
+Brazil,BRA,2019,"Survey mean consumption or income per capita, total population (2011 PPP $ per day)",SI.SPR.PCAP,20.39
+Brazil,BRA,2014,"Survey mean consumption or income per capita, total population (2011 PPP $ per day)",SI.SPR.PCAP,20.25
+Brazil,BRA,2019,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,0.13

@@ -19,7 +19,7 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 # Violent Deaths by Municipality
 violent_deaths_mun = pd.read_csv(
-    "/data/mortes-violentas-mun.csv",
+    "mortes-violentas-mun.csv",
     header = 0,
     delimiter = ";"
 ).rename(
@@ -28,7 +28,7 @@ violent_deaths_mun = pd.read_csv(
 
 # Violent Deaths by Region
 violent_deaths = pd.read_csv(
-    "/data/mortes-violentas-state.csv",
+    "mortes-violentas-state.csv",
     header = 0,
     delimiter = ";"
 ).rename(
@@ -60,7 +60,7 @@ def get_pop_state(
     state_id_map,
     line,
     year_range = [2000, 2010],
-    path = "/data/retroprojecao_2018_populacao_2000_2010.xlsx"
+    path = "retroprojecao_2018_populacao_2000_2010.xlsx"
     ):
     cols = [i for i in range(year_range[0], year_range[1]+1)]
     population_state = pd.DataFrame(columns = cols)
@@ -74,22 +74,22 @@ def get_pop_state(
 
 # Import data
 homicides_men_state = pd.read_csv(
-    "/data/homicides_men_state.csv", delimiter = ";"
+    "homicides_men_state.csv", delimiter = ";"
     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
 homicides_men_state["State"] = homicides_men_state["State_ID"].replace(state_id_map)
 
 homicides_women_state = pd.read_csv(
-    "/data/homicides_women_state.csv", delimiter = ";"
+    "homicides_women_state.csv", delimiter = ";"
     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
 homicides_women_state["State"] = homicides_women_state["State_ID"].replace(state_id_map)
 
 homicides_women_afro_state = pd.read_csv(
-    "/data/homicides_women_afro_state.csv", delimiter = ";"
+    "homicides_women_afro_state.csv", delimiter = ";"
     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
 homicides_women_afro_state["State"] = homicides_women_afro_state["State_ID"].replace(state_id_map)
 
 homicides_men_afro_state = pd.read_csv(
-    "/data/homicides_men_afro_state.csv", delimiter = ";"
+    "homicides_men_afro_state.csv", delimiter = ";"
     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
 homicides_men_afro_state["State"] = homicides_men_afro_state["State_ID"].replace(state_id_map)
 
@@ -131,7 +131,7 @@ population_state_2011_2022 = get_pop_state(
     state_id_map = state_id_map,
     line = 50,
     year_range = [2011, 2023],
-    path = "/data/projection_pop_state_2010_2060.xlsx"
+    path = "projection_pop_state_2010_2060.xlsx"
     )
 
 pop_state_2000_2022 = pd.concat([population_state_2000_2010, population_state_2011_2022], axis = 1)
