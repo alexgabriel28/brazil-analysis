@@ -16,7 +16,7 @@ from urllib.request import urlopen
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash(__name__, external_stylesheets=external_stylesheets)
-# server = app.server
+server = app.server
 # Violent Deaths by Municipality
 violent_deaths_mun = pd.read_csv(
     "mortes-violentas-mun.csv",
@@ -464,5 +464,5 @@ def update_line_homicides(hoverData, hom_type):
     )
     return fig
 
-if __name__ == '__main__':
-   app.run_server(debug=True, port="8055")
+# if __name__ == '__main__':
+#    app.run_server(debug=True, port="8055")
