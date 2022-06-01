@@ -16,7 +16,7 @@ from urllib.request import urlopen
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
+# server = app.server
 # Violent Deaths by Municipality
 violent_deaths_mun = pd.read_csv(
     "mortes-violentas-mun.csv",
@@ -214,7 +214,7 @@ fig_map.update_layout(
         ),
     title_x = 0.5,
     margin = {"t":30, "r":15},
-    zmax = 35000,
+    #zmax = 35000,
     )
 
 mask = homicides_melted["Victim Group"].isin(["Men"])
