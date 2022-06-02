@@ -156,8 +156,7 @@ from urllib.request import urlopen
 #     left_on = ["State_ID", "Year"],
 #     right_on = ["State_ID", "Year"])
 #
-# brasil_color_sequence = ["#7BB242","#F5DB00","#1A86C9", "#265073", "#D8576B"]
-# brasil_color_sequence.extend(px.colors.sequential.Plasma_r)
+
 #
 # polar_deaths = homicides_melted[homicides_melted.Year.isin([2018, 2019])][homicides_melted["Victim Group"].isin(["Men", "Woman"])]
 # polar_deaths = polar_deaths.sort_values("Deaths per 100,000")
@@ -193,6 +192,10 @@ styles = {
         'overflowX': 'auto'
     }
 }
+
+brasil_color_sequence = ["#7BB242","#F5DB00","#1A86C9", "#265073", "#D8576B"]
+brasil_color_sequence.extend(px.colors.sequential.Plasma_r)
+
 fig_polar = px.scatter_polar(
     polar_deaths,
     r = "Deaths per 100,000",
