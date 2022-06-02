@@ -161,9 +161,9 @@ from urllib.request import urlopen
 #
 # polar_deaths = homicides_melted[homicides_melted.Year.isin([2018, 2019])][homicides_melted["Victim Group"].isin(["Men", "Woman"])]
 # polar_deaths = polar_deaths.sort_values("Deaths per 100,000")
-with open('Brazil_Geo.json') as json_file:
+with open('brazil_geo.json') as json_file:
     Brazil = json.load(json_file)
-with open('Brazil_Mun_Geo.json') as json_file:
+with open('brazil_mun_geo.json') as json_file:
     Brazil_mun = json.load(json_file)
 
 # Create State ID Map
