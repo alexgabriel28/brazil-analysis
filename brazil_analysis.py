@@ -487,5 +487,5 @@ def update_line_homicides(hoverData, hom_type):
     )
     return fig
 
-# if __name__ == '__main__':
-#    app.run_server(debug=True, port="8055")
+if __name__ == '__main__':
+   app.run_server(debug=True) #, port="8055")
