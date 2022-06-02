@@ -207,7 +207,7 @@ cache = Cache(app.server, config={
     'CACHE_DIR': 'cache'
     })
 
-@cache.memoize(timeout=600)  # Number of seconds to cache the result
+@cache.cached(timeout=600)
 def plot_polar():
     fig_polar = px.scatter_polar(
         polar_deaths,
@@ -230,7 +230,7 @@ plot_polar()
 #     )
 # fig_polar.update_layout(font = dict(size = 13))
 
-@cache.memoize(timeout=600)  # Number of seconds to cache the result
+@cache.cached(timeout=600)
 def plot_choropleth():
     fig_map = px.choropleth_mapbox(
         violent_deaths_00_19,
