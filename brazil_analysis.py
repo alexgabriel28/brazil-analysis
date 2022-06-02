@@ -6,7 +6,6 @@ import dash_bootstrap_components as dbc
 
 from flask_caching import Cache
 
-
 import plotly as ply
 import plotly.express as px
 import matplotlib.pyplot as plt
