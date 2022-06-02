@@ -4,6 +4,8 @@ import dash
 from dash import Dash, dcc, html, Input, Output
 import dash_bootstrap_components as dbc
 
+from flask_caching import Cache
+
 import plotly as ply
 import plotly.express as px
 import matplotlib.pyplot as plt
@@ -196,46 +198,71 @@ styles = {
 brasil_color_sequence = ["#7BB242","#F5DB00","#1A86C9", "#265073", "#D8576B"]
 brasil_color_sequence.extend(px.colors.sequential.Plasma_r)
 
-fig_polar = px.scatter_polar(
-    polar_deaths,
-    r = "Deaths per 100,000",
-    theta = "State",
-    size = "Population",
-    color = "Year",
-    color_discrete_sequence=brasil_color_sequence,
-    )
-fig_polar.update_layout(font = dict(size = 13))
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+app = Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
 
-fig_map = px.choropleth_mapbox(
-    violent_deaths_00_19,
-    locations = "State",
-    featureidkey = "id",
-    geojson = Brazil,
-    color = "Deaths",
-    hover_name = "State",
-    hover_data = ["Deaths", "Year"],
-    custom_data = ["State"],
-    mapbox_style = "carto-darkmatter",
-    color_continuous_scale = "OrRd",
-    center = {"lat":-14, "lon":-55},
-    zoom = 2,
-    opacity = 0.6,
-    animation_frame = "Year",
-)
+cache = Cache(app.server, config={
+    'CACHE_TYPE': 'filesystem',
+    'CACHE_DIR': 'cache'
+    })
 
-fig_map.update_geos(fitbounds = "locations", visible = False)
-fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-fig_map.update_layout(
-    hovermode='x',
-    hoverlabel=dict(bgcolor="rgba(38, 80, 115, 0.75)"),
-    font = dict(color = "black"),
-    title = dict(
-        text = "Total Violent Deaths per State and Year",
-        ),
-    title_x = 0.5,
-    margin = {"t":30, "r":15},
-    #zmax = 35000,
+@cache.memoize(timeout=600)  # Number of seconds to cache the result
+def plot_polar():
+    fig_polar = px.scatter_polar(
+        polar_deaths,
+        r = "Deaths per 100,000",
+        theta = "State",
+        size = "Population",
+        color = "Year",
+        color_discrete_sequence=brasil_color_sequence,
+        )
+    fig_polar.update_layout(font = dict(size = 13))
+plot_polar()
+
+# fig_polar = px.scatter_polar(
+#     polar_deaths,
+#     r = "Deaths per 100,000",
+#     theta = "State",
+#     size = "Population",
+#     color = "Year",
+#     color_discrete_sequence=brasil_color_sequence,
+#     )
+# fig_polar.update_layout(font = dict(size = 13))
+
+@cache.memoize(timeout=600)  # Number of seconds to cache the result
+def plot_choropleth():
+    fig_map = px.choropleth_mapbox(
+        violent_deaths_00_19,
+        locations = "State",
+        featureidkey = "id",
+        geojson = Brazil,
+        color = "Deaths",
+        hover_name = "State",
+        hover_data = ["Deaths", "Year"],
+        custom_data = ["State"],
+        mapbox_style = "carto-darkmatter",
+        color_continuous_scale = "OrRd",
+        center = {"lat":-14, "lon":-55},
+        zoom = 2,
+        opacity = 0.6,
+        animation_frame = "Year",
     )
+
+    fig_map.update_geos(fitbounds = "locations", visible = False)
+    fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    fig_map.update_layout(
+        hovermode='x',
+        hoverlabel=dict(bgcolor="rgba(38, 80, 115, 0.75)"),
+        font = dict(color = "black"),
+        title = dict(
+            text = "Total Violent Deaths per State and Year",
+            ),
+        title_x = 0.5,
+        margin = {"t":30, "r":15},
+        #zmax = 35000,
+        )
+plot_choropleth()
 
 mask = homicides_melted["Victim Group"].isin(["Men"])
 mask_state = homicides_melted.State.isin(["Rio de Janeiro"])
@@ -252,9 +279,6 @@ fig = px.line(
 )
 fig.update_yaxes(range=[0, homicides_melted["Deaths per 100,000"].max()])
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
 app.layout = html.Div(
                 children = [
                         html.Header(
