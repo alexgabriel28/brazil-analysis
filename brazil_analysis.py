@@ -14,146 +14,170 @@ import numpy as np
 import json
 from urllib.request import urlopen
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
-# Violent Deaths by Municipality
-violent_deaths_mun = pd.read_csv(
-    "mortes-violentas-mun.csv",
-    header = 0,
-    delimiter = ";"
-).rename(
-    columns = {"período":"Year", "nome":"Municipality", "valor":"Deaths"}
-)
+# # Violent Deaths by Municipality
+# violent_deaths_mun = pd.read_csv(
+#     "mortes-violentas-mun.csv",
+#     header = 0,
+#     delimiter = ";"
+# ).rename(
+#     columns = {"período":"Year", "nome":"Municipality", "valor":"Deaths"}
+# )
+#
+# # Violent Deaths by Region
+# violent_deaths = pd.read_csv(
+#     "mortes-violentas-state.csv",
+#     header = 0,
+#     delimiter = ";"
+# ).rename(
+#     columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"}
+# )
 
-# Violent Deaths by Region
-violent_deaths = pd.read_csv(
-    "mortes-violentas-state.csv",
-    header = 0,
-    delimiter = ";"
-).rename(
-    columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"}
-)
-
-# Get geo-data for Brazilian Municipalities
-with urlopen('https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-100-mun.json') as response:
-    Brazil_mun = json.load(response)
-
-# Get geo-data for Brazilian States
-with urlopen('https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson') as response:
-    Brazil = json.load(response)
+# # Get geo-data for Brazilian Municipalities
+# with urlopen('https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-100-mun.json') as response:
+#     Brazil_mun = json.load(response)
+#
+# # Get geo-data for Brazilian States
+# with urlopen('https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson') as response:
+#     Brazil = json.load(response)
 
 # with open("C:/Users/gabri/brazil-analysis/assets/brazil_geo.json", "w") as f:
 #     json.dump(Brazil, f)
 # with open("C:/Users/gabri/brazil-analysis/assets/brazil_mun_geo.json", "w") as f:
 #     json.dump(Brazil_mun, f)
+# with open('Brazil_Geo.json') as json_file:
+#     Brazil = json.load(json_file)
+# with open('Brazil_Mun_Geo.json') as json_file:
+#     Brazil_mun = json.load(json_file)
+#
+# # Create State ID Map
+# state_id_map = {}
+# for feature in Brazil['features']:
+#     feature['id'] = feature['properties']['name']
+#     state_id_map[feature['properties']['sigla']] = feature['id']
+# violent_deaths["State"] = violent_deaths["State_ID"].replace(state_id_map)
+#
+# # Define function to get the population from the provided .xlsx per year and state
+# def get_pop_state(
+#     state_id_map,
+#     line,
+#     year_range = [2000, 2010],
+#     path = "retroprojecao_2018_populacao_2000_2010.xlsx"
+#     ):
+#     cols = [i for i in range(year_range[0], year_range[1]+1)]
+#     population_state = pd.DataFrame(columns = cols)
+#     for state_id in state_id_map.keys():
+#         sheet = pd.read_excel(path, sheet_name = state_id)
+#         temp = sheet.iloc[[line], 1:len(cols) + 1]
+#         temp.columns = cols
+#         temp.index = [state_id]
+#         population_state = pd.concat([population_state, temp])
+#     return population_state
+#
+# # Import data
+# homicides_men_state = pd.read_csv(
+#     "homicides_men_state.csv", delimiter = ";"
+#     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
+# homicides_men_state["State"] = homicides_men_state["State_ID"].replace(state_id_map)
+#
+# homicides_women_state = pd.read_csv(
+#     "homicides_women_state.csv", delimiter = ";"
+#     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
+# homicides_women_state["State"] = homicides_women_state["State_ID"].replace(state_id_map)
+#
+# homicides_women_afro_state = pd.read_csv(
+#     "homicides_women_afro_state.csv", delimiter = ";"
+#     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
+# homicides_women_afro_state["State"] = homicides_women_afro_state["State_ID"].replace(state_id_map)
+#
+# homicides_men_afro_state = pd.read_csv(
+#     "homicides_men_afro_state.csv", delimiter = ";"
+#     ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
+# homicides_men_afro_state["State"] = homicides_men_afro_state["State_ID"].replace(state_id_map)
+#
+# temp = pd.merge(
+#     homicides_men_state,
+#     homicides_women_state,
+#     left_on = ["State_ID", "Year", "State", "cod"],
+#     right_on = ["State_ID", "Year", "State", "cod"],
+#     how = "outer",
+#     suffixes = (" Men", " Women")
+#     )
+#
+# temp_2 = pd.merge(homicides_men_afro_state,
+#           homicides_women_afro_state,
+#           left_on = ["State_ID", "Year", "State", "cod"],
+#           right_on = ["State_ID", "Year", "State", "cod"],
+#           how = "outer",
+#           suffixes = (" Men Afro", " Women Afro")
+#          )
+#
+# homicides_merged = pd.merge(temp,
+#           temp_2,
+#           left_on = ["State_ID", "Year", "State", "cod"],
+#           right_on = ["State_ID", "Year", "State", "cod"],
+#           how = "outer",
+#          )
+#
+# homicides_merged["Ratio Fem/Mal"] = homicides_merged["Deaths Women"] / homicides_merged["Deaths Men"]
+# homicides_melted = pd.melt(
+#     homicides_merged,
+#     id_vars = ["cod", "State_ID", "Year", "State", "Ratio Fem/Mal"],
+#     var_name = "Victim Group",
+#     value_name = "Deaths"
+#     )
+#
+# homicides_melted["Victim Group"] = homicides_melted["Victim Group"].str.replace("Deaths ", "")
+# population_state_2000_2010 = get_pop_state(state_id_map, 50)
+# population_state_2011_2022 = get_pop_state(
+#     state_id_map = state_id_map,
+#     line = 50,
+#     year_range = [2011, 2023],
+#     path = "projection_pop_state_2010_2060.xlsx"
+#     )
+#
+# pop_state_2000_2022 = pd.concat([population_state_2000_2010, population_state_2011_2022], axis = 1)
+# pop_state_2000_2022["State_ID"] = pop_state_2000_2022.index
+# pop_state_00_22_melted = pd.melt(pop_state_2000_2022, id_vars = "State_ID", var_name = "Year", value_name = "Population")
+# pop_state_00_22_melted["Population"] = pop_state_00_22_melted["Population"].astype("int64")
+#
+# homicides_melted = pd.merge(
+#     homicides_melted,
+#     pop_state_00_22_melted,
+#     left_on = ["State_ID", "Year"],
+#     right_on = ["State_ID", "Year"],
+#     how = "inner",
+#     )
+# homicides_melted["Deaths per 100,000"] = (homicides_melted.Deaths/homicides_melted.Population*100000).round(2)
+#
+# violent_deaths_00_19 = pd.merge(
+#     violent_deaths,
+#     pop_state_00_22_melted,
+#     how = "inner",
+#     left_on = ["State_ID", "Year"],
+#     right_on = ["State_ID", "Year"])
+#
+# brasil_color_sequence = ["#7BB242","#F5DB00","#1A86C9", "#265073", "#D8576B"]
+# brasil_color_sequence.extend(px.colors.sequential.Plasma_r)
+#
+# polar_deaths = homicides_melted[homicides_melted.Year.isin([2018, 2019])][homicides_melted["Victim Group"].isin(["Men", "Woman"])]
+# polar_deaths = polar_deaths.sort_values("Deaths per 100,000")
+with open('Brazil_Geo.json') as json_file:
+    Brazil = json.load(json_file)
+with open('Brazil_Mun_Geo.json') as json_file:
+    Brazil_mun = json.load(json_file)
 
 # Create State ID Map
 state_id_map = {}
 for feature in Brazil['features']:
     feature['id'] = feature['properties']['name']
     state_id_map[feature['properties']['sigla']] = feature['id']
-violent_deaths["State"] = violent_deaths["State_ID"].replace(state_id_map)
 
-# Define function to get the population from the provided .xlsx per year and state
-def get_pop_state(
-    state_id_map,
-    line,
-    year_range = [2000, 2010],
-    path = "retroprojecao_2018_populacao_2000_2010.xlsx"
-    ):
-    cols = [i for i in range(year_range[0], year_range[1]+1)]
-    population_state = pd.DataFrame(columns = cols)
-    for state_id in state_id_map.keys():
-        sheet = pd.read_excel(path, sheet_name = state_id)
-        temp = sheet.iloc[[line], 1:len(cols) + 1]
-        temp.columns = cols
-        temp.index = [state_id]
-        population_state = pd.concat([population_state, temp])
-    return population_state
-
-# Import data
-homicides_men_state = pd.read_csv(
-    "homicides_men_state.csv", delimiter = ";"
-    ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
-homicides_men_state["State"] = homicides_men_state["State_ID"].replace(state_id_map)
-
-homicides_women_state = pd.read_csv(
-    "homicides_women_state.csv", delimiter = ";"
-    ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
-homicides_women_state["State"] = homicides_women_state["State_ID"].replace(state_id_map)
-
-homicides_women_afro_state = pd.read_csv(
-    "homicides_women_afro_state.csv", delimiter = ";"
-    ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
-homicides_women_afro_state["State"] = homicides_women_afro_state["State_ID"].replace(state_id_map)
-
-homicides_men_afro_state = pd.read_csv(
-    "homicides_men_afro_state.csv", delimiter = ";"
-    ).rename(columns = {"nome":"State_ID", "período":"Year", "valor":"Deaths"})
-homicides_men_afro_state["State"] = homicides_men_afro_state["State_ID"].replace(state_id_map)
-
-temp = pd.merge(
-    homicides_men_state,
-    homicides_women_state,
-    left_on = ["State_ID", "Year", "State", "cod"],
-    right_on = ["State_ID", "Year", "State", "cod"],
-    how = "outer",
-    suffixes = (" Men", " Women")
-    )
-
-temp_2 = pd.merge(homicides_men_afro_state,
-          homicides_women_afro_state,
-          left_on = ["State_ID", "Year", "State", "cod"],
-          right_on = ["State_ID", "Year", "State", "cod"],
-          how = "outer",
-          suffixes = (" Men Afro", " Women Afro")
-         )
-
-homicides_merged = pd.merge(temp,
-          temp_2,
-          left_on = ["State_ID", "Year", "State", "cod"],
-          right_on = ["State_ID", "Year", "State", "cod"],
-          how = "outer",
-         )
-
-homicides_merged["Ratio Fem/Mal"] = homicides_merged["Deaths Women"] / homicides_merged["Deaths Men"]
-homicides_melted = pd.melt(
-    homicides_merged,
-    id_vars = ["cod", "State_ID", "Year", "State", "Ratio Fem/Mal"],
-    var_name = "Victim Group",
-    value_name = "Deaths"
-    )
-
-homicides_melted["Victim Group"] = homicides_melted["Victim Group"].str.replace("Deaths ", "")
-population_state_2000_2010 = get_pop_state(state_id_map, 50)
-population_state_2011_2022 = get_pop_state(
-    state_id_map = state_id_map,
-    line = 50,
-    year_range = [2011, 2023],
-    path = "projection_pop_state_2010_2060.xlsx"
-    )
-
-pop_state_2000_2022 = pd.concat([population_state_2000_2010, population_state_2011_2022], axis = 1)
-pop_state_2000_2022["State_ID"] = pop_state_2000_2022.index
-pop_state_00_22_melted = pd.melt(pop_state_2000_2022, id_vars = "State_ID", var_name = "Year", value_name = "Population")
-pop_state_00_22_melted["Population"] = pop_state_00_22_melted["Population"].astype("int64")
-
-homicides_melted = pd.merge(
-    homicides_melted,
-    pop_state_00_22_melted,
-    left_on = ["State_ID", "Year"],
-    right_on = ["State_ID", "Year"],
-    how = "inner",
-    )
-homicides_melted["Deaths per 100,000"] = (homicides_melted.Deaths/homicides_melted.Population*100000).round(2)
-
-violent_deaths_00_19 = pd.merge(
-    violent_deaths,
-    pop_state_00_22_melted,
-    how = "inner",
-    left_on = ["State_ID", "Year"],
-    right_on = ["State_ID", "Year"])
+polar_deaths = pd.read_csv("polar_deaths.csv")
+polar_deaths.Year = polar_deaths.Year.astype("int64")
+violent_deaths_00_19 = pd.read_csv("violent_deaths_00_19.csv")
+violent_deaths_00_19.Year = violent_deaths_00_19.Year.astype("int64")
+homicides_melted = pd.read_csv("homicides_melted.csv")
+homicides_melted.Year = homicides_melted.Year.astype("int64")
 
 def create_dropdown_options(input_data):
     options = [{"label":i, "value":i} for i in input_data.sort_values().unique()]
@@ -169,13 +193,6 @@ styles = {
         'overflowX': 'auto'
     }
 }
-
-brasil_color_sequence = ["#7BB242","#F5DB00","#1A86C9", "#265073", "#D8576B"]
-brasil_color_sequence.extend(px.colors.sequential.Plasma_r)
-
-polar_deaths = homicides_melted[homicides_melted.Year.isin([2018, 2019])][homicides_melted["Victim Group"].isin(["Men", "Woman"])]
-polar_deaths = polar_deaths.sort_values("Deaths per 100,000")
-
 fig_polar = px.scatter_polar(
     polar_deaths,
     r = "Deaths per 100,000",
@@ -200,7 +217,7 @@ fig_map = px.choropleth_mapbox(
     center = {"lat":-14, "lon":-55},
     zoom = 2,
     opacity = 0.6,
-    animation_frame = "Year"
+    animation_frame = "Year",
 )
 
 fig_map.update_geos(fitbounds = "locations", visible = False)
@@ -232,6 +249,9 @@ fig = px.line(
 )
 fig.update_yaxes(range=[0, homicides_melted["Deaths per 100,000"].max()])
 
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+app = Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
 app.layout = html.Div(
                 children = [
                         html.Header(
