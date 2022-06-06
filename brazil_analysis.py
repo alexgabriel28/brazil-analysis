@@ -22,7 +22,6 @@ violent_deaths_mun = pd.read_csv(
 ).rename(
     columns = {"período":"Year", "nome":"Municipality", "valor":"Deaths"}
 )
-
 # Violent Deaths by Region
 violent_deaths = pd.read_csv(
     "mortes-violentas-state.csv",
