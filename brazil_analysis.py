@@ -222,6 +222,7 @@ fig_map = px.choropleth_mapbox(
     center = {"lat":-14, "lon":-55},
     zoom = 2,
     opacity = 0.6,
+    range_color = [0, 35000],
     #animation_frame = "Year",
 )
 
@@ -240,7 +241,6 @@ fig_map.update_layout(
         ),
     title_x = 0.5,
     margin = {"t":50, "r":15},
-    #zmax = 35000,
     )
 
 mask = homicides_melted["Victim Group"].isin(["Men"])
@@ -269,7 +269,7 @@ fig.update_layout(
 )
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = Dash(__name__, external_stylesheets=external_stylesheets)
+app = Dash(__name__, external_stylesheets=external_stylesheets, title = "Brazil Indicators")
 server = app.server
 
 app.layout = html.Div(
@@ -397,7 +397,7 @@ app.layout = html.Div(
                                         id = "polar_deaths",
                                         figure = fig_polar,
                                         style = {
-                                            "height":"35vh",
+                                            "height":"35vw",
                                             #"width":"40vw",
                                             "marginRight":"10%",
                                             #"padding":"5",
@@ -481,6 +481,7 @@ def update_map(value):
             zoom = 2,
             opacity = 0.6,
             animation_frame = "Year",
+            range_color = [0, 35000],
         )
 
         fig_map.update_geos(fitbounds = "locations", visible = False)
@@ -494,7 +495,6 @@ def update_map(value):
                 ),
             title_x = 0.5,
             margin = {"t":30, "r":15},
-            #zmax = 35000,
             )
     return fig_map
 
