@@ -206,6 +206,7 @@ fig_polar = px.scatter_polar(
     color_discrete_sequence=brasil_color_sequence,
     )
 fig_polar.update_layout(font = dict(size = 13))
+fig_polar.update_layout(margin = {"t":50, "r":30, "l":30})
 
 fig_map = px.choropleth_mapbox(
     violent_deaths_00_19,
@@ -232,9 +233,13 @@ fig_map.update_layout(
     font = dict(color = "black"),
     title = dict(
         text = "Total Violent Deaths per State and Year",
+        yref = "paper",
+        y = 1,
+        yanchor = "bottom",
+        pad_b = 30
         ),
     title_x = 0.5,
-    margin = {"t":30, "r":15},
+    margin = {"t":50, "r":15},
     #zmax = 35000,
     )
 
@@ -252,6 +257,16 @@ fig = px.line(
     hover_name = "Deaths",
 )
 fig.update_yaxes(range=[0, homicides_melted["Deaths per 100,000"].max()])
+fig.update_layout(
+    margin = {"t":50},
+    title = dict(
+        text = "Deaths per Victim Group and State \n (hover over map)",
+        yref = "paper",
+        y = 1,
+        yanchor = "bottom",
+        pad_b = 30
+        )
+)
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash(__name__, external_stylesheets=external_stylesheets)
@@ -301,7 +316,12 @@ app.layout = html.Div(
                                 dcc.Graph(
                                     id = "map_deaths",
                                     figure = fig_map,
-                                    style = {"display":"inline-block", "height":"70vh", "width":"45vw"},
+                                    style = {
+                                        "display":"inline-block",
+                                        "height":"45vw",
+                                        "width":"45vw",
+                                        "max-height":"50vh",
+                                        },
                                 ),
                             ], style = {"display":"inline-block", "marginRight":"5%"}),
                             html.Div(children = [
@@ -310,7 +330,8 @@ app.layout = html.Div(
                                     figure = fig,
                                     style = {
                                         "display":"inline-block",
-                                        "height":"75vh",
+                                        "height":"45vw",
+                                        "max-height":"60vh",
                                         "width":"45vw",
                                         "verticalAlign":"top",
                                         }
@@ -338,7 +359,20 @@ app.layout = html.Div(
                             # "align-items": "center",
                             # "justify-content": "center"
                         }),
-                        html.Button("Play Animation (Future Release)", id='btn_play'),
+                        html.Div([
+                            dcc.Slider(
+                                    min = int(homicides_melted.Year.min()),
+                                    max = int(homicides_melted.Year.max()),
+                                    step = 1,
+                                    marks = None,
+                                    tooltip={
+                                        "placement": "bottom",
+                                        "always_visible": True
+                                        },
+                                    value=2019,
+                                    id='map_slider'
+                            ),
+                        ], style = {"width":"40vw", "marginLeft":"30px"}),
                         html.Br(),
                         html.Br(),
                         dcc.Markdown("""
@@ -363,10 +397,17 @@ app.layout = html.Div(
                                         id = "polar_deaths",
                                         figure = fig_polar,
                                         style = {
-                                            "height":"85vh", "width":"45vw", "marginRight":"2.5%"
+                                            "height":"45vw",
+                                            "max-width":"45vw",
+                                            "marginRight":"10%",
+                                            "overflowX":"visible"
                                         }
                                     )
-                                ], style = {"width":"45vw", "display":"inline-block", "marginRight":"2.5%"}),
+                                ], style = {
+                                    "width":"45vw",
+                                    "display":"inline-block",
+                                    "marginRight":"2.5%"
+                                    }),
                               html.Div([
                                     dcc.Markdown("""
                                         Although absolute numbers of violent deaths
@@ -486,7 +527,7 @@ def update_polar_figure(selection):
             x = 0.99,
             bgcolor = "rgba(255, 255, 255, 0.4)"
         ),
-        margin={"r":10},
+        margin={"r":30, "l":30},
     )
     return fig_polar
 
