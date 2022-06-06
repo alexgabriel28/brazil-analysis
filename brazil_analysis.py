@@ -209,7 +209,7 @@ fig_polar.update_layout(font = dict(size = 13))
 fig_polar.update_layout(margin = {"t":50, "r":30, "l":30})
 
 fig_map = px.choropleth_mapbox(
-    violent_deaths_00_19,
+    violent_deaths_00_19[violent_deaths_00_19.Year == 2019],
     locations = "State",
     featureidkey = "id",
     geojson = Brazil,
@@ -341,8 +341,7 @@ app.layout = html.Div(
                                     options = ["Men", "Men Afro", "Women", "Women Afro"],
                                     inline = True,
                                     value = ["Men"],
-                                    style = {"horizontalAlign":"right", "marginRight":"0px"}
-                                    # style = {"display":"inline-block"}
+                                    style = {"marginLeft":"100px"}
                                 ),
                             ], style = {
                                 "display":"inline-block",
@@ -359,6 +358,7 @@ app.layout = html.Div(
                             # "align-items": "center",
                             # "justify-content": "center"
                         }),
+                        dcc.Markdown("""Select a Year""", style = {"marginLeft":"60px"}),
                         html.Div([
                             dcc.Slider(
                                     min = int(homicides_melted.Year.min()),
@@ -397,16 +397,16 @@ app.layout = html.Div(
                                         id = "polar_deaths",
                                         figure = fig_polar,
                                         style = {
-                                            "height":"45vw",
-                                            "max-width":"45vw",
+                                            "height":"35vh",
+                                            #"width":"40vw",
                                             "marginRight":"10%",
-                                            "overflowX":"visible"
+                                            #"padding":"5",
                                         }
                                     )
                                 ], style = {
                                     "width":"45vw",
                                     "display":"inline-block",
-                                    "marginRight":"2.5%"
+                                    "marginRight":"2.5%",
                                     }),
                               html.Div([
                                     dcc.Markdown("""
@@ -454,49 +454,49 @@ app.layout = html.Div(
                                 "display":"inline-block",
                                 "marginLeft":"2.5%",
                                 "marginRight":"2.5%",
-                                "max-height":"50%",
+                                "max-height":"70%",
                                 # "align-items": "center",
                                 # "justify-content": "center"),
                                 })
             ])
 
-# @app.callback(
-#     Output("map_deaths", "figure"),
-#     Input("btn_play", "n_clicks")
-# )
-# def update_map(n_clicks):
-#     changed_id = [p['prop_id'] for p in callback_context.triggered][0]
-#     if 'btn_play' in changed_id:
-#         fig_map = px.choropleth_mapbox(
-#             violent_deaths_00_19,
-#             locations = "State",
-#             featureidkey = "id",
-#             geojson = Brazil,
-#             color = "Deaths",
-#             hover_name = "State",
-#             hover_data = ["Deaths", "Year"],
-#             custom_data = ["State"],
-#             mapbox_style = "carto-darkmatter",
-#             color_continuous_scale = "OrRd",
-#             center = {"lat":-14, "lon":-55},
-#             zoom = 2,
-#             opacity = 0.6,
-#             animation_frame = "Year",
-#         )
-#
-#         fig_map.update_geos(fitbounds = "locations", visible = False)
-#         fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-#         fig_map.update_layout(
-#             hovermode='x',
-#             hoverlabel=dict(bgcolor="rgba(38, 80, 115, 0.75)"),
-#             font = dict(color = "black"),
-#             title = dict(
-#                 text = "Total Violent Deaths per State and Year",
-#                 ),
-#             title_x = 0.5,
-#             margin = {"t":30, "r":15},
-#             #zmax = 35000,
-#             )
+@app.callback(
+    Output("map_deaths", "figure"),
+    Input("map_slider", "value"),
+)
+def update_map(value):
+    if value:
+        fig_map = px.choropleth_mapbox(
+            violent_deaths_00_19[violent_deaths_00_19.Year == value],
+            locations = "State",
+            featureidkey = "id",
+            geojson = Brazil,
+            color = "Deaths",
+            hover_name = "State",
+            hover_data = ["Deaths", "Year"],
+            custom_data = ["State"],
+            mapbox_style = "carto-darkmatter",
+            color_continuous_scale = "OrRd",
+            center = {"lat":-14, "lon":-55},
+            zoom = 2,
+            opacity = 0.6,
+            animation_frame = "Year",
+        )
+
+        fig_map.update_geos(fitbounds = "locations", visible = False)
+        fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        fig_map.update_layout(
+            hovermode='x',
+            hoverlabel=dict(bgcolor="rgba(38, 80, 115, 0.75)"),
+            font = dict(color = "black"),
+            title = dict(
+                text = "Total Violent Deaths per State and Year",
+                ),
+            title_x = 0.5,
+            margin = {"t":30, "r":15},
+            #zmax = 35000,
+            )
+    return fig_map
 
 @app.callback(
     Output("polar_deaths", "figure"),
