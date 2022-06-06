@@ -206,7 +206,7 @@ fig_polar = px.scatter_polar(
     color_discrete_sequence=brasil_color_sequence,
     )
 fig_polar.update_layout(font = dict(size = 13))
-fig_polar.update_layout(margin = {"t":50, "r":30, "l":30})
+fig_polar.update_layout(margin = {"t":50})
 
 fig_map = px.choropleth_mapbox(
     violent_deaths_00_19[violent_deaths_00_19.Year == 2019],
@@ -494,7 +494,7 @@ def update_map(value):
                 text = "Total Violent Deaths per State and Year",
                 ),
             title_x = 0.5,
-            margin = {"t":30, "r":15},
+            margin = {"t":70, "r":15},
             )
     return fig_map
 
@@ -523,11 +523,10 @@ def update_polar_figure(selection):
         legend=dict(
             yanchor="top",
             xanchor="right",
-            y=0.99,
-            x = 0.99,
+            y=1.,
+            x = 0.,
             bgcolor = "rgba(255, 255, 255, 0.4)"
         ),
-        margin={"r":30, "l":30},
     )
     return fig_polar
 
@@ -559,7 +558,7 @@ def update_line_homicides(hoverData, hom_type):
     )
     fig.update_yaxes(range=[0, homicides_melted["Deaths per 100,000"].max()])
     fig.update_layout(
-        margin={"t":30, "r":15},
+        margin={"t":70, "r":15},
         title_x = 0.5,
         legend=dict(
             yanchor="top",
